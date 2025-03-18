@@ -8,8 +8,7 @@ sections:
   - block: hero
     content:
       title: |
-        Wowchemy
-        Research Group
+        Language Data and Knowledge computing
       image:
         filename: welcome.jpg
       text: |
