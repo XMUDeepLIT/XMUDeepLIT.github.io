@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: 2023Professor of Artificial Intelligence
 
 # Organizations/Affiliations
 organizations:

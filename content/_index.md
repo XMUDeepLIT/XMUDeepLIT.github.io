@@ -5,21 +5,21 @@ date: 2022-10-24
 type: landing
 
 sections:
-  - block: hero
+  - block: lab-profile
+    id: about
     content:
-      title: |
-        Language Data and Knowledge computing
-      image:
-        filename: welcome.jpg
-      text: |
-        <br>
-        
-        The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+        title: Biography
+        # Choose a user profile to display (a folder name within `content/authors/`)
+        username: lab
   
   - block: collection
     content:
-      title: Latest News
-      subtitle:
+      archive:
+        enable: true
+        text: 查看所有资讯
+        link: post/
+      title: 最新资讯
+      subtitle: 
       text:
       count: 5
       filters:
@@ -31,49 +31,72 @@ sections:
       offset: 0
       order: desc
       page_type: post
+      sort_by: 'date'
     design:
-      view: card
+      view: compact
       columns: '1'
-  
+
+
   - block: markdown
     content:
-      title:
-      subtitle: ''
-      text:
+      title: 研究方向
+      subtitle:
+      text: |
+        （这里对研究方向进行一个总体的概括...）目前的研究方向包括：</br>
+        * **大方向**1：子方向1，子方向2，子方向3
+        * **大方向**2：子方向1，子方向2，子方向3
+        * **大方向**3：子方向1，子方向2，子方向3
     design:
       columns: '1'
-      background:
-        image: 
-          filename: coders.jpg
-          filters:
-            brightness: 1
-          parallax: false
-          position: center
-          size: cover
-          text_color_light: true
-      spacing:
-        padding: ['20px', '0', '20px', '0']
-      css_class: fullscreen
 
   - block: collection
     content:
-      title: Latest Preprints
-      text: ""
+      archive:
+        enable: true
+        text: 查看所有项目
+        link: project/
+      title: 科研项目
+      subtitle: 
+      text:
+      count: 5
+      filters:
+        folders:
+          - project
+      offset: 0
+      sort_by: 'Date'
+    design:
+      view: compact
+      columns: '1'
+
+  - block: collection
+    content:
+      archive:
+        enable: true
+        text: 查看所有论文
+        link: publication/
+      title: 论文发表
+      subtitle: 
+      text:
       count: 5
       filters:
         folders:
           - publication
-        publication_type: 'article'
+      offset: 0
+      sort_by: 'Date'
     design:
       view: citation
       columns: '1'
+
 
   - block: markdown
     content:
       title:
       subtitle:
       text: |
-        {{% cta cta_link="./people/" cta_text="Meet the team →" %}}
+        {{% cta cta_link="./people/" cta_text="查看我们的团队 →" %}}
     design:
       columns: '1'
+
+
+
 ---

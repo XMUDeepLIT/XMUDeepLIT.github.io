@@ -1,5 +1,5 @@
 ---
-title: Latest News
+title: 最新资讯
 
 # Listing view
 view: compact

@@ -1,5 +1,5 @@
 ---
-title: People
+title: 学术团队
 date: 2022-10-24
 
 type: landing
@@ -7,17 +7,20 @@ type: landing
 sections:
   - block: people
     content:
-      title: Meet the Team
+      title: 学术团队
       # Choose which groups/teams of users to display.
       #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
       user_groups:
           - Principal Investigators
           - Researchers
-          - Grad Students
-          - Administration
+          - Cooperator
+          - Post-Doctor
+          - Ph.D. Students
+          - Master Students
+          - Undergraduate
+          - Administrative Assistant
           - Visitors
-          - Alumni
-      sort_by: Params.last_name
+      sort_by: Params.role
       sort_ascending: true
     design:
       show_interests: false

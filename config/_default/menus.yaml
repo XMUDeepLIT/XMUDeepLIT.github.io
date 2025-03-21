@@ -2,23 +2,27 @@
 #   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
 #     desired widget in your `content/home/` folder.
 #   The weight parameter defines the order that the links will appear in.
-
+#   导航栏配置文件， name 是导航栏上的名字， url 是点击导航栏所跳转到的页面，页面内容在 content 文件夹内
+#   weigth 是在导航栏上出现的顺序，越小越靠左
 main:
-  - name: Tour
-    url: tour
+  - name: 首页
+    url: /
     weight: 10
-  - name: News
+  - name: 最新资讯
     url: post
     weight: 20
-  - name: People
+  - name: 学术团队
     url: people
     weight: 30
-  - name: Events
-    url: event
+  - name: 科研项目
+    url: project
     weight: 40
-  - name: Publications
+  - name: 发表论文
     url: publication
     weight: 50
-  - name: Contact
-    url: contact
+  - name: 毕业硕士
+    url: alumni
     weight: 60
+  - name: 联系我们
+    url: contact
+    weight: 70
