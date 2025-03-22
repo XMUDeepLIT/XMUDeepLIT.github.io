@@ -1,5 +1,6 @@
 ---
 title: "An example journal article"
+subtitle: "**Neural Networks.**(CCF-B类)"
 authors:
 - admin
 - Robert Ford
