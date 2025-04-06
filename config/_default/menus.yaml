@@ -14,9 +14,6 @@ main:
   - name: 学术团队
     url: people
     weight: 30
-  - name: 科研项目
-    url: project
-    weight: 40
   - name: 发表论文
     url: publication
     weight: 50

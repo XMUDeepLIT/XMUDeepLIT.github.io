@@ -53,25 +53,6 @@ sections:
     content:
       archive:
         enable: true
-        text: 查看所有项目
-        link: project/
-      title: 科研项目
-      subtitle: 
-      text:
-      count: 5
-      filters:
-        folders:
-          - project
-      offset: 0
-      sort_by: 'Date'
-    design:
-      view: compact
-      columns: '1'
-
-  - block: collection
-    content:
-      archive:
-        enable: true
         text: 查看所有论文
         link: publication/
       title: 论文发表
