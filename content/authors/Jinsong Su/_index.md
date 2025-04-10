@@ -1,14 +1,17 @@
 ---
 # Display name
 title: 苏劲松
+englishname: Jinsong Su
 
 # Full name (for SEO)
 first_name: 苏
 last_name: 劲松
 
+
+
 # Username (this should match the folder name)
 authors:
-  - 苏劲松
+  - Jinsong Su
 
 # Is this the primary user of the site?
 superuser: false
@@ -58,7 +61,7 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Principal Investigators
+  - Researchers
   
 ---
 

@@ -1,8 +1,8 @@
 ---
 title: "TDAG: A Multi-Agent Framework based on Dynamic Task Decomposition and Agent Generation. "
 authors:
-- 王耀祥
-- 苏劲松
+- Yaoxiang Wang
+- Jinsong Su
 author_notes:
 - "Equal contribution"
 - "Equal contribution"
@@ -15,7 +15,7 @@ publishDate: "2025-03-22T00:00:00Z"
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ["article-journal"]
+publication_types: [rag]
 
 # Publication name and optional abbreviated publication name.
 publication: "**Neural Networks.**(CCF-B类)"
@@ -36,8 +36,9 @@ url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
-url_source: ''
+url_arXiv: https://arxiv.org/abs/2402.10178
 url_video: ''
+
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 

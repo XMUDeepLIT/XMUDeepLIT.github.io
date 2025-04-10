@@ -1,6 +1,6 @@
 ---
 # Display name
-title: (这里放实验室名字)
+title: (这里放课题组名字)
 
 # Username (this should match the folder name)
 authors:

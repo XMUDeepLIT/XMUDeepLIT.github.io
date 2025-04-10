@@ -15,11 +15,15 @@ main:
     url: people
     weight: 30
   - name: 发表论文
-    url: publication
+    url: /#pub
     weight: 50
   - name: 毕业硕士
     url: alumni
     weight: 60
+  - name: 研途印象​
+    url:  environment
+    weight: 70
   - name: 联系我们
     url: contact
-    weight: 70
+    weight: 80
+  

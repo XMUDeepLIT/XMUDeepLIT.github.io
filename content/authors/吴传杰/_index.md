@@ -1,20 +1,20 @@
 ---
 # Display name
-title: 王安特
+title: 吴传杰
 
 # Full name (for SEO)
-first_name: 王
-last_name: 安特
+first_name: 吴
+last_name: 传杰
 
 # Username (this should match the folder name)
 authors:
-  - 王安特
+  - 吴传杰
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: 2022级博士研究生
+role: 2025级硕士研究生
 
 # Organizations/Affiliations
 organizations:
@@ -54,7 +54,7 @@ social:
     link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/wuchuanjie
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -67,11 +67,9 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Ph.D. Student
+  - Master Students
   
 ---
 **研究方向**
-* 大语言模型
-* 对话系统
-
+* 基于图的检索增强生成
 
