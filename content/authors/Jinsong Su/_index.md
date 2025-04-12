@@ -6,8 +6,10 @@ title: 苏劲松
 first_name: 苏
 last_name: 劲松
 
+englishname: Jinsong Su
+
 authors:
-  - 苏劲松
+  - Jinsong Su
 
 # Is this the primary user of the site?
 superuser: false
