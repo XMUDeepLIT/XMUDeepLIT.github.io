@@ -1,13 +1,10 @@
 ---
 # Display name
 title: 苏劲松
-englishname: Jinsong Su
 
 # Full name (for SEO)
 first_name: 苏
 last_name: 劲松
-
-
 
 # Username (this should match the folder name)
 authors:
@@ -19,52 +16,13 @@ superuser: false
 # Role/position
 role: 国家级青年人才项目入选者、教授、博士生导师
 
-# Organizations/Affiliations
-organizations:
-  - name: 
-    url: ''
-
-# Short bio (displayed in user profile at end of posts)
-# bio: My research interests include distributed robotics, mobile computing and programmable matter.
-
-# interests:
-#   - Artificial Intelligence
-#   - Computational Linguistics
-#   - Information Retrieval
-
-# education:
-#   courses:
-#     - course: PhD in Artificial Intelligence
-#       institution: Stanford University
-#       year: 2012
-#     - course: MEng in Artificial Intelligence
-#       institution: Massachusetts Institute of Technology
-#       year: 2009
-#     - course: BSc in Artificial Intelligence
-#       institution: Massachusetts Institute of Technology
-#       year: 2008
-
-# Social/Academic Networking
-# For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
-#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "#contact" for contact widget.
-
-# Link to a PDF of your resume/CV from the About widget.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
-
-# Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
-
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
   - Researchers
-  
----
 
+englishname: Jinsong Su
+---
 苏劲松，厦门大学信息学院教授、博士生导师，电影学院，人工智能研究院双聘导师。2011年毕业于中国科学院计算技术研究所，获得工学博士学位。主要研究方向是自然语言处理，大模型，机器翻译。共发表CCF-A/B论文140余篇。曾培养硕士生获得百度奖学金，腾讯犀牛鸟奖学金。
 
 **获得荣誉**
