@@ -6,6 +6,9 @@ title: 苏劲松
 first_name: 苏
 last_name: 劲松
 
+authors:
+  - 苏劲松
+
 # Is this the primary user of the site?
 superuser: false
 
