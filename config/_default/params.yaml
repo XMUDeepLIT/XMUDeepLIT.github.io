@@ -47,7 +47,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} LDK This work is licensed under {license}'
+    notice: '© {year} XMU-DeepLIT This work is licensed under {license}'
     license:
       enable: true
       allow_derivatives: false

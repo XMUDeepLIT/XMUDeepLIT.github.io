@@ -9,9 +9,8 @@ sections:
     content:
       title: 联系我们
       text: |-
-        （这块是大致位置描述、招生文案、招生要求等）我们非常高兴地邀请假如我们的课题组。....Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer tempus augue non tempor egestas. Proin nisl nunc, dignissim in accumsan dapibus, auctor ullamcorper neque. Quisque at elit felis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aenean eget elementum odio. Cras interdum eget risus sit amet aliquet. In volutpat, nisl ut fringilla dignissim, arcu nisl suscipit ante, at accumsan sapien nisl eu eros.
+        （这块是大致位置描述、招生文案、招生要求、招聘要求等）我们非常高兴地邀请你加入我们的课题组。....Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer tempus augue non tempor egestas. Proin nisl nunc, dignissim in accumsan dapibus, auctor ullamcorper neque. Quisque at elit felis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aenean eget elementum odio. Cras interdum eget risus sit amet aliquet. In volutpat, nisl ut fringilla dignissim, arcu nisl suscipit ante, at accumsan sapien nisl eu eros.
       email:  jssu@xmu.edu.cn
-      phone: 888 888 88 88
       address:
           country: 中国
           country_code: CN
@@ -19,33 +18,24 @@ sections:
           city: 厦门市
           district: 翔安区
           street: 香山街道香山路厦门大学翔安校区
-          detail: 西部片区1号楼110室
+          detail: 西部园区信息学院科研楼5号楼
           postcode: "361102"  
       coordinates:
         latitude: '24.608698'
         longitude: '118.309860'
-      directions: 详细地址
-      office_hours:
-        - 'Monday 10:00 to 13:00'
-        - 'Wednesday 09:00 to 10:00'
-      appointment_url: 'https://calendly.com'
-      #contact_links:
-      #  - icon: comments
-      #    icon_pack: fas
-      #    name: Discuss on Forum
-      #    link: 'https://discourse.gohugo.io'
+      directions: 西部园区信息学院科研楼5号楼
     
       # Automatically link email and phone or display as text?
       autolink: true
     
-      # Email form provider
-      form:
-        provider: netlify
-        formspree:
-          id:
-        netlify:
-          # Enable CAPTCHA challenge to reduce spam?
-          captcha: false
+      # # Email form provider
+      # form:
+      #   provider: netlify
+      #   formspree:
+      #     id:
+      #   netlify:
+      #     # Enable CAPTCHA challenge to reduce spam?
+      #     captcha: false
     design:
       columns: '1'
 
