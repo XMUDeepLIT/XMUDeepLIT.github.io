@@ -21,8 +21,8 @@ sections:
           detail: 西部园区信息学院科研楼5号楼
           postcode: "361102"  
       coordinates:
-        latitude: '24.608698'
-        longitude: '118.309860'
+        latitude: '24.6083'
+        longitude: '118.29635'
       directions: 西部园区信息学院科研楼5号楼
     
       # Automatically link email and phone or display as text?

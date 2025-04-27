@@ -2,15 +2,16 @@
 title: "TDAG: A Multi-Agent Framework based on Dynamic Task Decomposition and Agent Generation"
 authors:
 - Yaoxiang Wang
-- Jinsong Su
 - Zhiyong Wu
 - Junfeng Yao
+- Jinsong Su
+
 author_notes:
-- "Equal contribution"
-- "Equal contribution"
-- 
+-
+- "通讯"
+-
+- "通讯"
 date: "2025-01-21T00:00:00Z"
-doi: ""
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2025-03-22T00:00:00Z"
@@ -21,8 +22,7 @@ publishDate: "2025-03-22T00:00:00Z"
 publication_types: [rag]
 
 # Publication name and optional abbreviated publication name.
-publication: "**Neural Networks.**(CCF-B类)"
-publication_short: ""
+publication: "**Neural Networks.(CCF-B类)**"
 
 abstract: The emergence of Large Language Models (LLMs) like ChatGPT has inspired the development of LLM-based agents capable of addressing complex, real-world tasks. However, these agents often struggle during task execution due to methodological constraints, such as error propagation and limited adaptability. To address this issue, we propose a multi-agent framework based on dynamic Task Decomposition and Agent Generation (TDAG). This framework dynamically decomposes complex tasks into smaller subtasks and assigns each to a specifically generated subagent, thereby enhancing adaptability in diverse and unpredictable real-world tasks. Simultaneously, existing benchmarks often lack the granularity needed to evaluate incremental progress in complex, multi-step tasks. In response, we introduce ItineraryBench in the context of travel planning, featuring interconnected, progressively complex tasks with a fine-grained evaluation system. ItineraryBench is designed to assess agents' abilities in memory, planning, and tool usage across tasks of varying complexity. Our experimental results reveal that TDAG significantly outperforms established baselines, showcasing its superior adaptability and context awareness in complex task scenarios.
 

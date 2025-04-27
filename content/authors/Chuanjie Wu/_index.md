@@ -17,12 +17,9 @@ role: 2025级硕士研究生
 # 邮箱的格式是'mailto:你的邮箱',其他的放相应链接即可。
 # 如果想添加其他链接，可以到 https://docs.hugoblox.com/getting-started/page-builder/#icons 上去找图标，或者直接放在下面的详细介绍上
 social:
-  - icon: envelope
-    icon_pack: fas
-    link: 'mailto:test@example.org'
-  - icon: google-scholar
-    icon_pack: ai
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  # - icon: envelope
+  #   icon_pack: fas
+  #   link: 'mailto:1487743280@qq.com'
   - icon: github
     icon_pack: fab
     link: https://github.com/wuchuanjie
@@ -37,14 +34,9 @@ user_groups:
 <!-- ###代表的是以三级标题的形式展示后面的文本，* 代表以列表的形式展示后面的文本-->
 
 <!-- 这里可以先放一段简要自我介绍或者是自己想要放上去的一些链接 ，不想放的话也可以删了-->
-(自我介绍)
 
 ### 研究方向
 * 基于图的检索增强生成
 
-<!-- 可以放校内外的一些荣誉，包括荣誉称号、奖学金、企业未来之星等等 -->
-### 获得荣誉
-* 荣誉1
-* 荣誉2
 
 

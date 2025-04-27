@@ -9,7 +9,7 @@ englishname: Jinsong Su
 first_name: 苏
 last_name: 劲松
 
-# 老师们在这里可以填一些比较重要的头衔、职称，学生填20**级硕士/博士
+# 老师们在这里可以填一些比较重要的头衔、职称
 role: 国家级青年人才项目入选者、教授、博士生导师
 
 
@@ -20,13 +20,13 @@ role: 国家级青年人才项目入选者、教授、博士生导师
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:test@example.org'
+    link: 'mailto:jssu@xmu.edu.cn'
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.com/citations?user=w6qCk3sAAAAJ&hl=zh-CN&oi=ao
   - icon: github
     icon_pack: fab
-    link: https://github.com/wuchuanjie
+    link: https://github.com
 
 #  老师这里填Researchers即可，不用修改
 user_groups:
@@ -56,7 +56,7 @@ user_groups:
 * 20年福建省杰出青年基金获得者
 * 19/20/21/23年腾讯犀牛鸟精英人才培养计划优秀导师奖
 
-### 学术兼职：
+### 学术兼职
 * 中国中文信息学会理事、青年工作委员会委员、机器翻译专委会委员、自然语言生成与智能写作专委会委员
 * 中国计算机学会自然语言处理专业委员会、青年工作委员会执行委员（17-19）
 * 中国人工智能学会理事、组织工作委员会委员、多语种智能处理专委会委员

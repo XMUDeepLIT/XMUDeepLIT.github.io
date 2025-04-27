@@ -10,7 +10,9 @@ authors:
 superuser: true
 
 # Role/position
-role: <span style="color:#ff0000;">L</span>anguage <span style="color:#00ff00;">I</span>ntelligence <span style="color:#0000ff;">T</span>echnology
+role: <span style="color:#ff0000;"><b>L</b></span>anguage  
+      <span style="color:#00ff00;"><b>I</b></span>ntelligence  
+      <span style="color:#0000ff;"><b>T</b></span>echnology
 
 # Organizations/Affiliations
 
@@ -21,9 +23,7 @@ email: ' jssu@xmu.edu.cn'
 
 👋欢迎来到厦门大学语言智能技术课题组的主页。
 
-
 厦门大学语言智能技术课题组从属于厦门大学数字媒体计算中心。目前，课题组包含教授1人，助理教授2人，博士后2人，在读研究20余人。课题组主要聚焦于大模型，自然语言处理，AI for Science，承担了包括国家重点研发计划课题，国家自然科学基金，福建省攻关青年基金、杰出青年基金等项目数十项，累计发表CCF-A/B类论文170余篇，授权发明专利20余项；研究成果获得2020年钱伟长中文信息处理科学技术奖—汉王青年创新奖，国家示范型软件学院联盟20周年优秀专职教师奖；培养硕士生获得百度奖学金，腾讯犀牛鸟奖学金；相关研究成果在阿里巴巴，维沃等互联网大厂得到实际应用。
-
 
 <span style="color:red">课题组25级硕士招生已结束，欢迎同学们关注后续26级推免招生！</span>
 

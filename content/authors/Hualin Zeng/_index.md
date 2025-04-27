@@ -1,0 +1,78 @@
+---
+# 中文名称
+title: 曾华琳
+
+#英文名，是展示在论文里面的名字
+englishname: Hualin Zeng
+
+# Full name (for SEO)
+first_name: 曾
+last_name: 华琳
+
+# 老师们在这里可以填一些比较重要的头衔、职称
+role: 讲师
+
+# 这里放跟自己相关的一些页面的链接，我预定义了三个：分别是邮箱、Google-scholar主页和github主页
+# 对于不想放上去或者自己没有的链接，直接删除即可。
+# 邮箱的格式是'mailto:你的邮箱',其他的放相应链接即可。
+# 如果想定义其他链接，可以到 https://docs.hugoblox.com/getting-started/page-builder/#icons 上去找图标，或者直接放在下面的详细介绍上
+
+#  老师这里填Researchers即可，不用修改
+user_groups:
+  - Researchers
+
+#接着下面是markdown格式的文本，是md文件的具体内容，分为四个部分，老师们可以自行进行修改、删减和添加
+---
+<!-- 以下内容一定要遵循markdown语法 -->
+<!-- ###代表的是以三级标题的形式展示后面的文本，* 代表以列表的形式展示后面的文本-->
+
+
+<!-- 老师的简要介绍 -->
+### 教研成果
+- 2024年度福建省“在线开放课程/MOOC教学”优秀案例一等奖《学科融合打造信息学科的数学教学》,2025.1
+- 2023年校级课程思政优秀教学案例《贝努里大数定律-频率稳定性》，主持，2024.1
+- 2022-2023年度高校计算机专业优秀教师奖励计划，2023.12
+- 2023年第二批国家级一流本科课程线上线下混合式课程《概率统计A》，主持，2023.4
+- 2020年福建省线上线下混合式一流课程认定《概率论与数理统计》，主持
+- 2019年福建省精品在线开放课程认定《概率论与数理统计》，主持，福课联盟[2019]22号，2019.12
+
+
+### 教改项目
+- 主持厦门大学首批AI赋能课程教学改革创新校级项目 深度融合类《AI赋能助力信息学科概率统计课程》，2025
+- 主持厦门大学2022年本科课程思政示范课程《概率统计A》，2023
+- 主持厦门大学教学改革研究项目《新AI背景下的本科算法课程体系改革研究》，2019
+- 主持厦门大学一流本科线上线下混合课程《概率统计A》，2019
+- 主持厦门大学第五批校级在线开放课程《概率论与数理统计》，2018，已结题
+- 主持2018年第一批产学合作协同育人项目《《自然语言处理》课程建设》，201801006038，教高司函[2018]47号，2018.10，已结题
+- 主持厦门大学第二批示范性网络课程立项《算法设计基础》，2014，已结题
+- 主持厦门大学教学改革研究项目《融合计算机体系一体化的算法设计与分析课程改革》，2014，已结题
+
+### 教学比赛
+- 第四届福建省高校教师教学创新大赛二等奖《概率统计A》，二等奖，2024
+- 厦门大学第四届教学创新大赛二等奖《概率统计A》，2024
+- 厦门大学第九届青年教师教学技能比赛校级一等奖第一名，2014
+- 厦门大学第十三届青年教师教学技能比赛翻转课堂比赛校级二等奖，2018
+
+### 教材编写
+- 2024厦门大学首批“十四五”精品教材项目《计算机应用基础（第六版）》，排名第6
+- 21世纪高等学校计算机类课程创新系列教材《算法设计与分析》，排名第2
+
+### 指导学生获奖
+- 指导学生ukci2014最佳学生论文奖《Integrate Classifier Diversity Evaluation to Feature Selection Based Classifier Ensemble Reduction》
+- 2015年第五届“华为杯”中国大学生智能设计竞赛二等奖
+- 2016年第六届“华为杯”中国大学生智能设计竞赛三等奖
+- 2020-2022年美国大学生数学建模竞赛（MCM/ICM）特等奖1项，一等奖7项，二等奖10项
+
+### 教学论文
+- 曾华琳，郑旭玲，晁飞，陈毅东，李绍滋. 本科生参与智能机器人科研探索[J]，计算机教育，2015(18):11-13
+- 曾华琳, 陈毅东, 晁飞, 李绍滋, 周昌乐. 从经典到非经典——谈智能科学系专业课非经典计算[J], 计算机教育，2016(10):73-76
+
+### 科研论文和专利
+- Zhang, Juncheng; Chao, Fei; Zeng, Hualin *; A recurrent wavelet-based brain emotional learning network controller for nonlinear systems, Soft Computing, 2022, 26(6): 1432-7643 (期刊论文) 
+- Zeng Hualin*; Lin Xianming; Zhou Changle; Chao Fei ; Towards Chinese Metaphor
+Comprehension Based on Attribute Statistic Analysis, 16th UK Workshop on Computational
+Intelligence (UKCI), Lancaster, United Kingdom, 2016-9-7至2016-9-9 (会议论文) 
+- 曾华琳*; 周昌乐; 陈毅东; 史晓东 ; 基于特征自动选择方法的汉语隐喻计算, 厦门大学学报(自然科学版), 2016, (03): 406-412 (期刊论文) 
+- Yao Gang; Zeng Hualin; Chao Fei; Su Chang; Lin Chih Min; Zhou Changle ; Integration of classifier diversity measures for feature selection-based classifier ensemble reduction, Soft Computing, 2016, 20(8): 2995-3005 (期刊论文) 
+- Lin, Xianming; Li, Jie; Zeng, Hualin; Ji, Rongrong ; Font generation based on least
+squares conditional generative adversarial nets, Multimedia Tools and Applications, 2019, 78(1): 
