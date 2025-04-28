@@ -11,7 +11,7 @@ publishDate: "2017-01-01T00:00:00Z"
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ["article"]
+publication_types: [rag]
 
 # Publication name and optional abbreviated publication name.
 publication: ""
@@ -27,8 +27,8 @@ tags:
 featured: false
 
 links:
-- name: Custom Link
-  url: http://example.org
+- name: arXiv
+  url: https://arxiv.org/abs/2402.10178v2
 url_pdf: http://arxiv.org/pdf/1512.04133v1
 url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
 url_dataset: '#'

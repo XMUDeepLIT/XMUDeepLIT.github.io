@@ -24,20 +24,12 @@ publication_types: [rag]
 # Publication name and optional abbreviated publication name.
 publication: "**Neural Networks.(CCF-B类)**"
 
-abstract: The emergence of Large Language Models (LLMs) like ChatGPT has inspired the development of LLM-based agents capable of addressing complex, real-world tasks. However, these agents often struggle during task execution due to methodological constraints, such as error propagation and limited adaptability. To address this issue, we propose a multi-agent framework based on dynamic Task Decomposition and Agent Generation (TDAG). This framework dynamically decomposes complex tasks into smaller subtasks and assigns each to a specifically generated subagent, thereby enhancing adaptability in diverse and unpredictable real-world tasks. Simultaneously, existing benchmarks often lack the granularity needed to evaluate incremental progress in complex, multi-step tasks. In response, we introduce ItineraryBench in the context of travel planning, featuring interconnected, progressively complex tasks with a fine-grained evaluation system. ItineraryBench is designed to assess agents' abilities in memory, planning, and tool usage across tasks of varying complexity. Our experimental results reveal that TDAG significantly outperforms established baselines, showcasing its superior adaptability and context awareness in complex task scenarios.
 
+links:
+- name: arXiv
+  url: https://arxiv.org/abs/2402.10178v2
+url_code: https://github.com
 
-# links:
-# - name: ""
-#   url: ""
-url_pdf: https://arxiv.org/pdf/2402.10178v2
-url_code: 
-url_dataset: ''
-url_poster: ''
-url_project: ''
-url_slides: ''
-url_arXiv: https://arxiv.org/abs/2402.10178
-url_video: ''
 
 
 # Featured image
@@ -70,4 +62,4 @@ Click the *Cite* button above to demo the feature to enable visitors to import p
 Create your slides in Markdown - click the *Slides* button to check out the example.
 {{% /callout %}}
 
-Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).
+Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/). 
