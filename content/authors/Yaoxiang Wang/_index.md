@@ -10,7 +10,7 @@ first_name: 王
 last_name: 耀祥
 
 # 同学们填20**级硕士研究生/博士研究生
-role: 2025级硕士研究生
+role: 2025级博士研究生
 
 # 这里放跟自己相关的一些页面的链接，我预定义了三个：分别是邮箱、Google-scholar主页和github主页
 # 对于不想放上去或者自己没有的链接，直接删除即可。
@@ -29,7 +29,7 @@ social:
 
 #  硕士填Master Students ，博士填Ph.D. Students
 user_groups:
-  - Master Students
+  - Ph.D. Students
 
 #接着下面是markdown格式的文本，是md文件的具体内容，同学们可以自行进行修改、删减和添加
 ---

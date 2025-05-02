@@ -14,10 +14,10 @@ main:
   - name: 学术团队
     url: people
     weight: 30
-  - name: 发表论文
+  - name: 论文发表
     url: publication
     weight: 50
-  - name: 毕业硕士
+  - name: 桃李天下
     url: alumni
     weight: 60
   - name: 研途印象​

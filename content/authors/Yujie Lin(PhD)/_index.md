@@ -73,7 +73,7 @@ user_groups:
 
 * Trustworthy AI
 
-*Large Language Models
+* Large Language Models
 
  
 
