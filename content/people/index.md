@@ -12,10 +12,9 @@ sections:
       #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
       user_groups:
           - Researchers
-          - Post Doctor
           - Ph.D. Students
           - Master Students
-      sort_by: Params.role
+      sort_by: Params.weight
       sort_ascending: true
     design:
       show_interests: false

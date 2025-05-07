@@ -9,7 +9,7 @@ sections:
     content:
       title: 联系我们
       text: |-
-        （这块是大致位置描述、招生文案、招生要求、招聘要求等）我们非常高兴地邀请你加入我们的课题组。....Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer tempus augue non tempor egestas. Proin nisl nunc, dignissim in accumsan dapibus, auctor ullamcorper neque. Quisque at elit felis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aenean eget elementum odio. Cras interdum eget risus sit amet aliquet. In volutpat, nisl ut fringilla dignissim, arcu nisl suscipit ante, at accumsan sapien nisl eu eros.
+        我们非常高兴地邀请你加入我们的课题组。
       email:  jssu@xmu.edu.cn
       address:
           country: 中国

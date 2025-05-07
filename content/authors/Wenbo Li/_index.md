@@ -11,7 +11,7 @@ last_name: 文博
 
 # 同学们填20**级硕士研究生/博士研究生
 role: 2024级硕士研究生
-
+weight: 2024
 #  硕士填Master Students ，博士填Ph.D. Students
 user_groups:
   - Master Students
