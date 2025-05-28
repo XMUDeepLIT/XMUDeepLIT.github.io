@@ -27,7 +27,7 @@ def parse_citation(citation_str):
             cleaned_author = re.sub(r'[+*]$', '', author).strip()
             # 处理可能的符号后多余空格（如 "Wu* " → "Wu"）
             cleaned_author = re.sub(r'\s+$', '', cleaned_author)
-            note = '共一' if symbol == '+' else '通讯' if symbol == '*' else ''
+            note = '共同一作' if symbol == '+' else '通讯作者' if symbol == '*' else ''
         else:
             cleaned_author = author
             note = ''

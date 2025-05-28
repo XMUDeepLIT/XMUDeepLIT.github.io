@@ -44,10 +44,7 @@ sections:
       text: |
        
         课题组的研究主要聚焦于大模型和自然语言处理领域，目前的研究方向包括：</br>
-         {{% callout note %}}
-        点击方向名即可跳转到相应的论文列表
-        {{% /callout %}}
-        * [**基于大模型的自然语言处理研究**](publication/#rag)：
+        * **基于大模型的自然语言处理研究**：
           - 多模态机器翻译研究，包括图到文机器翻译，图到图机器翻译和文本到图像生成
           - 语音分析和处理研究，包括语音识别、翻译和合成
           - 信息抽取研究，主要聚焦实体识别，关系抽取和情感分析
@@ -106,15 +103,6 @@ sections:
       view: citation
       columns: '1'
 
-
-  - block: markdown
-    content:
-      title:
-      subtitle:
-      text: |
-        {{% cta cta_link="./people/" cta_text="查看我们的团队 →" %}}
-    design:
-      columns: '1'
 
 
 

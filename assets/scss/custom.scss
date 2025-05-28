@@ -1,6 +1,28 @@
+//人物主页肖像下面的名字样式
 .portrait-title h2 {
   font-size: 1.64em;
   font-weight: 300;
   color: #000;
   margin: 20px 0 10px;
+}
+
+//通讯作者作者note图标
+.author-correspond:before {
+  content: "*";
+  font-family: inherit;  /* 不使用 Font Awesome 字体 */
+  font-size: 0.7em;//字体大小
+  font-style: normal;
+  font-weight: 300;//字体粗细
+  padding-right: 3px;
+}
+
+
+//共同一作作作者note图标
+.author-joint:before {
+  content: "+";
+  font-family: inherit;  /* 不使用 Font Awesome 字体 */
+  font-size: 0.7em;//字体大小
+  font-style: normal;
+  font-weight: 300;//字体粗细
+  padding-right: 3px;
 }

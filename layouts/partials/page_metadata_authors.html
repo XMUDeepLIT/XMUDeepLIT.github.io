@@ -18,9 +18,15 @@
       {{- end -}}
     </span>
     {{- if isset $.Params "author_notes" -}}
-      {{- with (index $.Params.author_notes $index) -}}
-        <i class="author-notes fas fa-info-circle" data-toggle="tooltip" title="{{.}}"></i>
-      {{- end -}}
+  {{- with (index $.Params.author_notes $index) -}}
+    {{- if eq . "通讯作者" -}}
+      <i class="author-notes fas author-correspond" data-toggle="tooltip" title="{{.}}"></i>
+    {{- else if eq . "共同一作" -}}
+      <i class="author-notes fas author-joint" data-toggle="tooltip" title="{{.}}"></i>
+    {{- else -}}
+      <i class="author-notes fas fa-info-circle" data-toggle="tooltip" title="{{.}}"></i>
     {{- end -}}
   {{- end -}}
+{{- end -}}
+{{- end -}}
 {{- end -}}
