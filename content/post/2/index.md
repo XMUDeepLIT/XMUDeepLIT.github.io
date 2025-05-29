@@ -1,5 +1,5 @@
 ---
-title: 课题组1篇论文被Neural Networks录用
+title: 课题组1篇论文被 Neural Networks 录用
 date: 2025-05-02
 ---
 <!--more-->
