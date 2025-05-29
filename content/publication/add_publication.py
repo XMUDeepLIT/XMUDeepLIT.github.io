@@ -119,8 +119,9 @@ def parse_citation(citation_str):
 # 根据生成的字典和输入的ID（当前论文数）生成Markdown文件
 def generate_md_file(data_dict, output_id):
     # 输出data和id
-    print(f"Data Dictionary: {data_dict}")
-    print(f"Output ID: {output_id}")
+    # 换行输出字典
+    for key, value in data_dict.items():
+        print(f"{key}: {value}")
     # 创建目标文件夹
     os.makedirs(output_id, exist_ok=True)
     # 构建YAML内容
@@ -145,11 +146,11 @@ def generate_md_file(data_dict, output_id):
     
     # 4. 处理日期（使用当前月日 + 给定年份）
     now = datetime.now(timezone.utc)
-    date_str = f"{data_dict['year']}-{now:%m-%d}T00:00:00Z"
+    date_str = f"{data_dict['year']}-{now:%m-%dT%H:%M:%SZ}"
     yaml_content.append(f'date: "{date_str}"')
     
     # 5. 处理发布日期（当前真实时间）
-    publish_date = now.isoformat(timespec="seconds")
+    publish_date = now.isoformat(timespec="seconds").replace("+00:00", "Z")
     yaml_content.append(f'publishDate: "{publish_date}"')
     
     # 6. 处理发表类型

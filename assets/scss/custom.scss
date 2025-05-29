@@ -26,3 +26,12 @@
   font-weight: 300;//字体粗细
   padding-right: 3px;
 }
+
+//论文列表的样式
+#container-publications {
+  text-align: justify;
+  display: block;
+  position: relative;
+  overflow: hidden;
+  font-size: 0.8rem;
+}

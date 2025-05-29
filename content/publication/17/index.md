@@ -15,5 +15,5 @@ author_notes:
 date: "2017-05-28T00:00:00Z"
 publishDate: "2025-05-28T13:16:03+00:00"
 publication_types: []
-publication: "**of ACL 2017. short paper.**"
+publication: "**of ACL 2017.** short paper"
 ---
