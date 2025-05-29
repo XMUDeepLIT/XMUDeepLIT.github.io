@@ -9,7 +9,7 @@ sections:
     content:
       title: 联系我们
       text: |-
-        我们非常高兴地邀请你加入我们的课题组。
+        
       email:  jssu@xmu.edu.cn
       address:
           country: 中国

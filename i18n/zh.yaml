@@ -261,8 +261,7 @@
 
 # Published with
 
-- id: published_with
-  translation: 由{hugoblox}支持发布——免费{repo_link}开源{/repo_link}网站，为创作者赋能。
+
 
 # 研究方向对应翻译显示
 - id: pub_Text Machine Translation
