@@ -8,4 +8,8 @@ view: compact
 banner:
   caption: ''
   image: ''
+image:
+  caption: ""
+  focal_point: "Bottom"
+  preview_only: true
 ---
