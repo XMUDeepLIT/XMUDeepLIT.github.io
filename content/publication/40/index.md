@@ -18,6 +18,6 @@ author_notes:
 - 
 date: "2019-05-28T00:00:00Z"
 publishDate: "2025-05-28T17:52:36+00:00"
-publication_types: [信息抽取]
+publication_types: [4）信息抽取]
 publication: "**In Proc. of IJCAI 2019.** (CCF-A类)"
 ---

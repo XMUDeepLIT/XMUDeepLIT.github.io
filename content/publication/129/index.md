@@ -18,6 +18,6 @@ author_notes:
 - "通讯作者"
 date: "2024-05-29T08:08:57Z"
 publishDate: "2025-05-29T08:08:57Z"
-publication_types: [文本机器翻译]
+publication_types: [1）文本机器翻译]
 publication: "**In Proc. of ACL 2024 findings.**"
 ---

@@ -16,6 +16,6 @@ author_notes:
 - 
 date: "2019-05-28T18:07:32Z"
 publishDate: "2025-05-28T18:07:32Z"
-publication_types: [文本机器翻译]
+publication_types: [1）文本机器翻译]
 publication: "**IEEE Transactions on Pattern Analysis and Machine Intelligence.** (CCF-A类)"
 ---

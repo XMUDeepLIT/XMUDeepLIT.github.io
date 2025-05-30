@@ -20,6 +20,6 @@ author_notes:
 - 
 date: "2020-05-29T07:46:05Z"
 publishDate: "2025-05-29T07:46:05Z"
-publication_types: [多模态机器翻译]
+publication_types: [2）多模态机器翻译]
 publication: "**Information Sciences.** (CCF-B类)"
 ---

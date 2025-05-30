@@ -47,7 +47,7 @@ header:
 
 footer:
   copyright:
-    notice: 
+    notice: ''
     license:
       enable: true
       allow_derivatives: false

@@ -12,6 +12,6 @@ author_notes:
 - "通讯作者"
 date: "2020-05-29T07:42:03Z"
 publishDate: "2025-05-29T07:42:03Z"
-publication_types: [文本机器翻译]
+publication_types: [1）文本机器翻译]
 publication: "**IEEE Transactions on Neural Networks and Learning Systems.** (CCF-B类)"
 ---

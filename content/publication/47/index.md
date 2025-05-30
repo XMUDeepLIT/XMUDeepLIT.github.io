@@ -12,6 +12,6 @@ author_notes:
 - 
 date: "2019-05-28T18:07:19Z"
 publishDate: "2025-05-28T18:07:19Z"
-publication_types: [文本机器翻译]
+publication_types: [1）文本机器翻译]
 publication: "**IEEE/ACM Transactions on Audio, Speech and Language Processing.** (CCF-B类)"
 ---

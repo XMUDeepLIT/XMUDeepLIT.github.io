@@ -16,6 +16,6 @@ author_notes:
 - "通讯作者"
 date: "2025-05-29T08:14:49Z"
 publishDate: "2025-05-29T08:14:49Z"
-publication_types: [多模态机器翻译]
+publication_types: [2）多模态机器翻译]
 publication: "**Neural Networks.** (CCF-B类)"
 ---

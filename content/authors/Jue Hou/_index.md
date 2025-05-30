@@ -18,24 +18,15 @@ weight: 2025
 # 如果想添加其他链接，可以到 https://docs.hugoblox.com/getting-started/page-builder/#icons 上去找图标，或者直接放在下面的详细介绍上
 
 social:
-- icon: house
-  icon_pack: fas
-  link: https://marquis.eu.org/
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.com/citations?user=GoceuAsAAAAJ
 - icon: envelope
   icon_pack: fas
   link: 'mailto:marquis128@foxmail.com'
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.com/citations?user=GoceuAsAAAAJ
 - icon: github
   icon_pack: fab
   link: https://github.com/Marquis03
-- icon: c
-  icon_pack: fas
-  link: https://marquis.blog.csdn.net/
-- icon: kaggle
-  icon_pack: fab
-  link: https://www.kaggle.com/marquis03
 - icon: qq
   icon_pack: fab
   link: https://qm.qq.com/q/kvSr7oUR6U
@@ -45,11 +36,15 @@ user_groups:
 - Master Students
 ---
 
-侯爵，湖南郴州人，本科就读于[西南财经大学计算机与人工智能学院](https://it.swufe.edu.cn/)。
-业余爱好是玩电脑游戏和打人工智能竞赛。
+侯爵，本科毕业于[西南财经大学计算机与人工智能学院](https://it.swufe.edu.cn/)。
 
 ### 研究方向
 
-- 多模态
-- 大模型
-- 信息抽取
+- 多模态大模型
+- 推测解码
+- RAG
+
+### 兴趣爱好
+
+- PC单机游戏
+- 人工智能竞赛

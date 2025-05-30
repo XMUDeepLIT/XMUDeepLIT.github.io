@@ -16,6 +16,6 @@ author_notes:
 - "通讯作者"
 date: "2022-05-29T07:55:58Z"
 publishDate: "2025-05-29T07:55:58Z"
-publication_types: [信息抽取]
+publication_types: [4）信息抽取]
 publication: "**In Proc. of AAAI 2022.** (CCF-A类)"
 ---

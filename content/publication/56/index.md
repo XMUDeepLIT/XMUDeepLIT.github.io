@@ -18,6 +18,6 @@ author_notes:
 - 
 date: "2020-05-29T07:42:20Z"
 publishDate: "2025-05-29T07:42:20Z"
-publication_types: [多模态机器翻译]
+publication_types: [2）多模态机器翻译]
 publication: "**In Proc. of ACL 2020.** (CCF-A类)"
 ---

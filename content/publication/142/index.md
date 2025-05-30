@@ -24,6 +24,6 @@ author_notes:
 - "通讯作者"
 date: "2024-05-29T08:12:51Z"
 publishDate: "2025-05-29T08:12:51Z"
-publication_types: [信息抽取]
+publication_types: [4）信息抽取]
 publication: "**In Proc. of EMNLP 2024.** (CCF-B类)"
 ---

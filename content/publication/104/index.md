@@ -16,6 +16,6 @@ author_notes:
 - "通讯作者"
 date: "2023-05-29T08:03:51Z"
 publishDate: "2025-05-29T08:03:51Z"
-publication_types: [信息抽取]
+publication_types: [4）信息抽取]
 publication: "**In Proc. of IJCAI 2023.** (CCF-A类)"
 ---

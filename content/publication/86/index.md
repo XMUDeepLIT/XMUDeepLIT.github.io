@@ -22,6 +22,6 @@ author_notes:
 - "通讯作者"
 date: "2022-05-29T07:56:56Z"
 publishDate: "2025-05-29T07:56:56Z"
-publication_types: [文本机器翻译]
+publication_types: [1）文本机器翻译]
 publication: "**In Proc. of COLING 2022.** (CCF-B类)"
 ---

@@ -28,10 +28,20 @@ user_groups:
 
 
 <!-- 老师的简要介绍 -->
+### 获得荣誉
+- 第四届福建省高校教师教学创新大赛二等奖《概率统计A》，二等奖，2024
+- 厦门大学第四届教学创新大赛二等奖《概率统计A》，2024
+- 2022-2023年度高校计算机专业优秀教师奖励计划，2023.12
+- 厦门大学第十三届青年教师教学技能比赛翻转课堂比赛校级二等奖，2018
+- 厦门大学第九届青年教师教学技能比赛校级一等奖第一名，2014
+- 指导学生获ukci2014最佳学生论文奖《Integrate Classifier Diversity Evaluation to Feature Selection Based Classifier Ensemble Reduction》
+- 指导学生获2015年第五届“华为杯”中国大学生智能设计竞赛二等奖
+- 指导学生获2016年第六届“华为杯”中国大学生智能设计竞赛三等奖
+- 指导学生获2020-2022年美国大学生数学建模竞赛（MCM/ICM）特等奖1项，一等奖7项，二等奖10项
+
 ### 教研成果
 - 2024年度福建省“在线开放课程/MOOC教学”优秀案例一等奖《学科融合打造信息学科的数学教学》,2025.1
 - 2023年校级课程思政优秀教学案例《贝努里大数定律-频率稳定性》，主持，2024.1
-- 2022-2023年度高校计算机专业优秀教师奖励计划，2023.12
 - 2023年第二批国家级一流本科课程线上线下混合式课程《概率统计A》，主持，2023.4
 - 2020年福建省线上线下混合式一流课程认定《概率论与数理统计》，主持
 - 2019年福建省精品在线开放课程认定《概率论与数理统计》，主持，福课联盟[2019]22号，2019.12
@@ -47,32 +57,10 @@ user_groups:
 - 主持厦门大学第二批示范性网络课程立项《算法设计基础》，2014，已结题
 - 主持厦门大学教学改革研究项目《融合计算机体系一体化的算法设计与分析课程改革》，2014，已结题
 
-### 教学比赛
-- 第四届福建省高校教师教学创新大赛二等奖《概率统计A》，二等奖，2024
-- 厦门大学第四届教学创新大赛二等奖《概率统计A》，2024
-- 厦门大学第九届青年教师教学技能比赛校级一等奖第一名，2014
-- 厦门大学第十三届青年教师教学技能比赛翻转课堂比赛校级二等奖，2018
-
 ### 教材编写
 - 2024厦门大学首批“十四五”精品教材项目《计算机应用基础（第六版）》，排名第6
 - 21世纪高等学校计算机类课程创新系列教材《算法设计与分析》，排名第2
 
-### 指导学生获奖
-- 指导学生ukci2014最佳学生论文奖《Integrate Classifier Diversity Evaluation to Feature Selection Based Classifier Ensemble Reduction》
-- 2015年第五届“华为杯”中国大学生智能设计竞赛二等奖
-- 2016年第六届“华为杯”中国大学生智能设计竞赛三等奖
-- 2020-2022年美国大学生数学建模竞赛（MCM/ICM）特等奖1项，一等奖7项，二等奖10项
-
-### 教学论文
-- 曾华琳，郑旭玲，晁飞，陈毅东，李绍滋. 本科生参与智能机器人科研探索[J]，计算机教育，2015(18):11-13
-- 曾华琳, 陈毅东, 晁飞, 李绍滋, 周昌乐. 从经典到非经典——谈智能科学系专业课非经典计算[J], 计算机教育，2016(10):73-76
-
-### 科研论文和专利
-- Zhang, Juncheng; Chao, Fei; Zeng, Hualin *; A recurrent wavelet-based brain emotional learning network controller for nonlinear systems, Soft Computing, 2022, 26(6): 1432-7643 (期刊论文) 
-- Zeng Hualin*; Lin Xianming; Zhou Changle; Chao Fei ; Towards Chinese Metaphor
-Comprehension Based on Attribute Statistic Analysis, 16th UK Workshop on Computational
-Intelligence (UKCI), Lancaster, United Kingdom, 2016-9-7至2016-9-9 (会议论文) 
-- 曾华琳*; 周昌乐; 陈毅东; 史晓东 ; 基于特征自动选择方法的汉语隐喻计算, 厦门大学学报(自然科学版), 2016, (03): 406-412 (期刊论文) 
-- Yao Gang; Zeng Hualin; Chao Fei; Su Chang; Lin Chih Min; Zhou Changle ; Integration of classifier diversity measures for feature selection-based classifier ensemble reduction, Soft Computing, 2016, 20(8): 2995-3005 (期刊论文) 
-- Lin, Xianming; Li, Jie; Zeng, Hualin; Ji, Rongrong ; Font generation based on least
-squares conditional generative adversarial nets, Multimedia Tools and Applications, 2019, 78(1): 
+### 学术兼职
+- 中文信息学会会员
+- IEEE会员

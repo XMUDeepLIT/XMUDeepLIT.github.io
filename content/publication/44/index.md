@@ -16,6 +16,6 @@ author_notes:
 - 
 date: "2019-05-28T18:05:49Z"
 publishDate: "2025-05-28T18:05:49Z"
-publication_types: [信息抽取]
+publication_types: [4）信息抽取]
 publication: "**In Proc. of EMNLP 2019.** (CCF-B类)"
 ---

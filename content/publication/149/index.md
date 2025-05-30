@@ -14,6 +14,6 @@ author_notes:
 - "通讯作者"
 date: "2025-05-29T08:14:07Z"
 publishDate: "2025-05-29T08:14:07Z"
-publication_types: [信息抽取]
+publication_types: [4）信息抽取]
 publication: "**In Proc. of ICASSP 2025.** (CCF-B类)"
 ---

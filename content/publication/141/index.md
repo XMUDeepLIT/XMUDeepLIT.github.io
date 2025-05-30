@@ -20,6 +20,6 @@ author_notes:
 - "通讯作者"
 date: "2024-05-29T08:12:44Z"
 publishDate: "2025-05-29T08:12:44Z"
-publication_types: [多模态机器翻译]
+publication_types: [2）多模态机器翻译]
 publication: "**In Proc. of EMNLP 2024.** (CCF-B类)"
 ---
