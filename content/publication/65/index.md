@@ -22,6 +22,6 @@ author_notes:
 - 
 date: "2021-05-29T07:46:23Z"
 publishDate: "2025-05-29T07:46:23Z"
-publication_types: [4）信息抽取]
+publication_types: [direction5]
 publication: "**Artificial Intelligence.** (CCF-A类)"
 ---

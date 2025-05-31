@@ -16,6 +16,6 @@ author_notes:
 - 
 date: "2024-05-29T08:13:15Z"
 publishDate: "2025-05-29T08:13:15Z"
-publication_types: [大模型架构]
+publication_types: [direction7]
 publication: "**Artificial Intelligence.** (CCF-A类)"
 ---

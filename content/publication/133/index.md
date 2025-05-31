@@ -20,6 +20,6 @@ author_notes:
 - "通讯作者"
 date: "2024-05-29T08:10:59Z"
 publishDate: "2025-05-29T08:10:59Z"
-publication_types: [大模型训练]
+publication_types: [direction8]
 publication: "**In Proc. of ACL 2024.** (CCF-A类)"
 ---

@@ -20,6 +20,6 @@ author_notes:
 - 
 date: "2024-05-29T08:13:24Z"
 publishDate: "2025-05-29T08:13:24Z"
-publication_types: [大模型推理]
+publication_types: [direction9]
 publication: "**In Proc. of AAAI 2025.** (CCF-A类)"
 ---

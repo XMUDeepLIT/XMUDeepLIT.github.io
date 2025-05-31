@@ -18,6 +18,6 @@ author_notes:
 - "通讯作者"
 date: "2023-05-29T08:05:18Z"
 publishDate: "2025-05-29T08:05:18Z"
-publication_types: [4）信息抽取]
+publication_types: [direction5]
 publication: "**In Proc. of ACM MM 2023.** (CCF-A类)."
 ---

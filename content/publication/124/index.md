@@ -20,6 +20,6 @@ author_notes:
 - 
 date: "2024-05-29T08:08:14Z"
 publishDate: "2025-05-29T08:08:14Z"
-publication_types: [2）多模态机器翻译]
+publication_types: [direction2]
 publication: "**In Proc. of COLING 2024.** (CCF-B类)"
 ---

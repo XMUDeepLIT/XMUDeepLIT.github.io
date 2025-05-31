@@ -14,6 +14,6 @@ author_notes:
 - "通讯作者"
 date: "2021-05-29T07:55:30Z"
 publishDate: "2025-05-29T07:55:30Z"
-publication_types: [软件工程]
+publication_types: [directionb]
 publication: "**IEEE/ACM Transactions on Audio, Speech and Language Processing.** (CCF-B类)"
 ---

@@ -16,6 +16,6 @@ author_notes:
 - "通讯作者"
 date: "2023-05-29T08:04:25Z"
 publishDate: "2025-05-29T08:04:25Z"
-publication_types: [文本生成]
+publication_types: [direction4]
 publication: "**In Proc. of ACL 2023 Findings.**"
 ---

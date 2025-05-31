@@ -16,6 +16,6 @@ author_notes:
 - 
 date: "2020-05-29T07:41:43Z"
 publishDate: "2025-05-29T07:41:43Z"
-publication_types: [4）信息抽取]
+publication_types: [direction5]
 publication: "**In Proc. of AAAI 2020.** (CCF-A类)"
 ---

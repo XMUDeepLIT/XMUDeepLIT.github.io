@@ -18,6 +18,6 @@ author_notes:
 - 
 date: "2023-05-29T08:00:08Z"
 publishDate: "2025-05-29T08:00:08Z"
-publication_types: [文本生成]
+publication_types: [direction4]
 publication: "**Artificial Intelligence.** (CCF-A类)"
 ---

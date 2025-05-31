@@ -18,6 +18,6 @@ author_notes:
 - "通讯作者"
 date: "2021-05-29T07:46:32Z"
 publishDate: "2025-05-29T07:46:32Z"
-publication_types: [文本生成]
+publication_types: [direction4]
 publication: "**In Proc. of IJCAI 2021.** (CCF-A类)"
 ---

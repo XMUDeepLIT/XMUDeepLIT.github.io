@@ -18,6 +18,6 @@ author_notes:
 - 
 date: "2019-05-28T18:05:28Z"
 publishDate: "2025-05-28T18:05:28Z"
-publication_types: [1）文本机器翻译]
+publication_types: [direction1]
 publication: "**In Proc. of EMNLP 2019.** (CCF-B类)"
 ---

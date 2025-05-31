@@ -20,6 +20,6 @@ author_notes:
 - 
 date: "2020-05-29T07:42:49Z"
 publishDate: "2025-05-29T07:42:49Z"
-publication_types: [2）多模态机器翻译]
+publication_types: [direction2]
 publication: "**In Proc. of ACMMM 2020. Oral.** (CCF-A类)"
 ---

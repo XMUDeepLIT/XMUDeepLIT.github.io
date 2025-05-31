@@ -16,6 +16,6 @@ author_notes:
 - "通讯作者"
 date: "2025-05-29T08:15:17Z"
 publishDate: "2025-05-29T08:15:17Z"
-publication_types: [4）信息抽取]
+publication_types: [direction5]
 publication: "**In Proc. of ACL 2025.** (CCF-A类)"
 ---

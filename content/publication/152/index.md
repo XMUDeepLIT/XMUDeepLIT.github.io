@@ -30,6 +30,6 @@ author_notes:
 - 
 date: "2025-05-29T08:14:42Z"
 publishDate: "2025-05-29T08:14:42Z"
-publication_types: [大模型训练]
+publication_types: [direction8]
 publication: "**In Proc. of ICML 2025.** (CCF-A类)"
 ---

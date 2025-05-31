@@ -20,6 +20,6 @@ author_notes:
 - 
 date: "2024-05-29T08:10:51Z"
 publishDate: "2025-05-29T08:10:51Z"
-publication_types: [大模型推理]
+publication_types: [direction9]
 publication: "**In Proc. of ACL 2024 findings.**"
 ---

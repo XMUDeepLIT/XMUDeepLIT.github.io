@@ -22,6 +22,6 @@ author_notes:
 - "通讯作者"
 date: "2023-05-29T08:04:17Z"
 publishDate: "2025-05-29T08:04:17Z"
-publication_types: [2）多模态机器翻译]
+publication_types: [direction2]
 publication: "**In Proc. of ACL 2023 Findings.**"
 ---

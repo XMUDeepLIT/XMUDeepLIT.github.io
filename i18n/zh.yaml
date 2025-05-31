@@ -265,31 +265,29 @@
   translation: 由{hugoblox}支持发布——免费{repo_link}开源{/repo_link}网站，为创作者赋能。
 
 # 研究方向对应翻译显示
-- id: pub_Text Machine Translation
-  translation: 1）文本机器翻译
-- id: pub_Multimodal Machine Translation
-  translation: 2）多模态机器翻译
-- id: pub_Speech Recognition, Translation & Synthesis
+- id: pub_direction1
+  translation: 文本机器翻译
+- id: pub_direction2
+  translation: 多模态机器翻译
+- id: pub_direction3
   translation: 语音识别、翻译与合成
-- id: pub_Text Generation
+- id: pub_direction4
   translation: 文本生成
-- id: pub_Information Extraction
+- id: pub_direction5
   translation: 信息抽取
-- id: pub_Retrieval-Augmented LLMs
+- id: pub_direction6
   translation: 检索增强大模型
-- id: pub_LLM Architectures
+- id: pub_direction7
   translation: 大模型架构
-- id: pub_LLM Training
+- id: pub_direction8
   translation: 大模型训练
-- id: pub_LLM Inference
+- id: pub_direction9
   translation: 大模型推理
-- id: pub_LLM Security
-  translation: 大模型安全
-- id: pub_LLM Agents
+- id: pub_directiona
   translation: 大模型智能体 
-- id: pub_Software Engineering
+- id: pub_directionb
   translation: 软件工程
-- id: pub_科学人工智能
+- id: pub_directionc
   translation: AI for Science
 
 

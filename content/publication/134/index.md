@@ -18,6 +18,6 @@ author_notes:
 - "通讯作者"
 date: "2024-05-29T08:11:06Z"
 publishDate: "2025-05-29T08:11:06Z"
-publication_types: [检索增强大模型]
+publication_types: [direction6]
 publication: "**In Proc. of ACL 2024.** (CCF-A类)"
 ---

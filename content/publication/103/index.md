@@ -22,6 +22,6 @@ author_notes:
 - "通讯作者"
 date: "2023-05-29T08:02:57Z"
 publishDate: "2025-05-29T08:02:57Z"
-publication_types: [4）信息抽取]
+publication_types: [direction5]
 publication: "**Information Processing and Management.** (CCF-B类)"
 ---

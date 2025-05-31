@@ -18,6 +18,6 @@ author_notes:
 - 
 date: "2020-05-28T18:07:55Z"
 publishDate: "2025-05-28T18:07:55Z"
-publication_types: [文本生成]
+publication_types: [direction4]
 publication: "**In Proc. of AAAI 2020.** (CCF-A类)"
 ---

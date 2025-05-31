@@ -18,6 +18,6 @@ author_notes:
 - "通讯作者"
 date: "2018-05-28T00:00:00Z"
 publishDate: "2025-05-28T13:41:25+00:00"
-publication_types: [4）信息抽取]
+publication_types: [direction5]
 publication: "**计算机研究与发展.** (CCF-A类中文期刊)"
 ---

@@ -18,6 +18,6 @@ author_notes:
 - 
 date: "2021-05-29T07:53:57Z"
 publishDate: "2025-05-29T07:53:57Z"
-publication_types: [文本生成]
+publication_types: [direction4]
 publication: "**Journal of Artificial Intelligence Research.** (CCF-B类)"
 ---

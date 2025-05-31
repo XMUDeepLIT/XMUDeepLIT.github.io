@@ -204,13 +204,13 @@ if __name__ == "__main__":
         except Exception as e:
             print(f"处理输入时出错: {e}")
     
-    # text_dict=parse_citation('Yaoxiang Wang, Zhiyong Wu*, Junfeng Yao, and Jinsong Su*. 2025. TDAG: A Multi-Agent Framework based on Dynamic Task Decomposition and Agent Generation. Neural Networks. (CCF-B类) // 大模型智能体')
+    # text_dict=parse_citation('Yaoxiang Wang, Zhiyong Wu*, Junfeng Yao, and Jinsong Su*. 2025. TDAG: A Multi-Agent Framework based on Dynamic Task Decomposition and Agent Generation. Neural Networks. (CCF-B类) // directiona')
     # folder_count = count_subdirectories()
     # generate_md_file(text_dict, str(folder_count))
     # # 测试用例
     # test_cases = [
     #     "Xiaoyue Wang+, Linfeng Song+, Xin Liu, Chulun Zhou, Hualin Zeng and Jinsong Su*. 2022. Getting the Most out of Simile Recognition. In Proc. of EMNLP 2022 Findings. // 信息抽取",
-    #     "Hui Jiang, Ziyao Lu, Fandong Meng, Chulun Zhou, Jie Zhou, Degen Huang and Jinsong Su*. 2022. Towards Robust k-Nearest-Neighbor Machine Translation. In Proc. of EMNLP 2022. (CCF-B类)// 1）文本机器翻译",
+    #     "Hui Jiang, Ziyao Lu, Fandong Meng, Chulun Zhou, Jie Zhou, Degen Huang and Jinsong Su*. 2022. Towards Robust k-Nearest-Neighbor Machine Translation. In Proc. of EMNLP 2022. (CCF-B类)// direction1",
         
     # ]   
 

@@ -20,6 +20,6 @@ author_notes:
 - "通讯作者"
 date: "2023-05-29T08:00:03Z"
 publishDate: "2025-05-29T08:00:03Z"
-publication_types: [1）文本机器翻译]
+publication_types: [direction1]
 publication: "**IEEE Transactions on Pattern Analysis and Machine Intelligence.** (CCF-A类)"
 ---

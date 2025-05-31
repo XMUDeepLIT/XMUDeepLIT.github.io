@@ -16,6 +16,6 @@ author_notes:
 - "通讯作者"
 date: "2025-05-29T08:15:23Z"
 publishDate: "2025-05-29T08:15:23Z"
-publication_types: [大模型架构]
+publication_types: [direction7]
 publication: "**In Proc. of ACL 2025.** (CCF-A类)"
 ---

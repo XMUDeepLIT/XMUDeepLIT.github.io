@@ -12,6 +12,6 @@ author_notes:
 - "通讯作者"
 date: "2025-05-29T08:14:14Z"
 publishDate: "2025-05-29T08:14:14Z"
-publication_types: [大模型智能体]
+publication_types: [directiona]
 publication: "**Neural Networks.** (CCF-B类)"
 ---

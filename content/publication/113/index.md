@@ -20,6 +20,6 @@ author_notes:
 - 
 date: "2023-05-29T08:05:26Z"
 publishDate: "2025-05-29T08:05:26Z"
-publication_types: [文本生成]
+publication_types: [direction4]
 publication: "**IEEE/ACM Transactions on Audio, Speech and Language Processing.** (CCF-B类)"
 ---

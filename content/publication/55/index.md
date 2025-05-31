@@ -18,6 +18,6 @@ author_notes:
 - 
 date: "2020-05-29T07:42:15Z"
 publishDate: "2025-05-29T07:42:15Z"
-publication_types: [文本生成]
+publication_types: [direction4]
 publication: "**In Proc. of ACL 2020.** (CCF-A类)"
 ---

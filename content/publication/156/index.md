@@ -22,6 +22,6 @@ author_notes:
 - 
 date: "2025-05-29T08:15:12Z"
 publishDate: "2025-05-29T08:15:12Z"
-publication_types: [大模型推理]
+publication_types: [direction9]
 publication: "**In Proc. of ACL 2025.** (CCF-A类)"
 ---

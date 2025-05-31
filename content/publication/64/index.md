@@ -18,6 +18,6 @@ author_notes:
 - 
 date: "2021-05-29T07:46:12Z"
 publishDate: "2025-05-29T07:46:12Z"
-publication_types: [软件工程]
+publication_types: [directionb]
 publication: "**In Proc. of AAAI 2021.** (CCF-A类)"
 ---

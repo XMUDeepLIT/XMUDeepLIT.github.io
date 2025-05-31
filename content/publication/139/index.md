@@ -20,6 +20,6 @@ author_notes:
 - 
 date: "2024-05-29T08:11:55Z"
 publishDate: "2025-05-29T08:11:55Z"
-publication_types: [大模型推理]
+publication_types: [direction9]
 publication: "**In Proc. of EMNLP 2024.** Short Paper"
 ---

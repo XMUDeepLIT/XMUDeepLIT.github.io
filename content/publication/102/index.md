@@ -18,6 +18,6 @@ author_notes:
 - 
 date: "2023-05-29T08:02:45Z"
 publishDate: "2025-05-29T08:02:45Z"
-publication_types: [大模型训练]
+publication_types: [direction8]
 publication: "**Journal of Artificial Intelligence Research.** (CCF-B类)"
 ---

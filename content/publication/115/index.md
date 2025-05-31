@@ -16,6 +16,6 @@ author_notes:
 - 
 date: "2023-05-29T08:06:19Z"
 publishDate: "2025-05-29T08:06:19Z"
-publication_types: [4）信息抽取]
+publication_types: [direction5]
 publication: "**In Proc. of EMNLP 2023.** (CCF-B类)"
 ---
