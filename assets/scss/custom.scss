@@ -43,3 +43,42 @@
   margin: 0 auto;
 }
 
+.article-style {
+  // Any unresponsive embeds, e.g. Plotly, should be wrapped to handle on a case-by-case basis.
+  // If any unresponsive embeds still remain in the article, prevent article overflow and DIV scrolling.
+  // Note that lazy-loaded images, e.g. Gallery, may cause scrollable Y-overflow if only X-overflow is hidden pre-load.
+  overflow: hidden;
+  text-align: justify;
+  // Word wrap text content.
+  @include word-wrap;
+
+  // Underline links if they are a similar color to the body text.
+  a {
+    text-decoration: $sta-link-decoration;
+  }
+
+  img,
+  video {
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+    padding: 0;
+  }
+
+  td img,
+  td video {
+    margin-top: 0;
+    margin-bottom: 0;
+  }
+
+  figure {
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+  }
+
+  figure img {
+    margin-top: 0;
+    margin-bottom: 0;
+  }
+}

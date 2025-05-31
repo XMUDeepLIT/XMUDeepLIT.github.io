@@ -40,7 +40,7 @@ ACL会议全称为Annual Meeting of the Association for Computational Linguistic
 - - -
 - 论文标题：Locate-and-Focus: Enhancing Terminology Translation in Speech Language Models
 - 录用类型：Main, Long paper
-- 论文作者：Suhang Wu, Jialong Tang, Chengyi Yang, Pei Zhang, Baosong Yang, Junhui Li, Min Zhang, and Jinsong Su\*
+- 论文作者：Suhang Wu, Jialong Tang, Chengyi Yang, Pei Zhang, Baosong Yang, Junhui Li, Junfeng Yao\*, Min Zhang, and Jinsong Su\*
 - 完成单位：厦门大学，通义实验室，苏州大学
 ![](5.jpg)
 - 论文简介：语音翻译领域正受到日益广泛的关注，然而，准确翻译语音中的专业术语仍然是一个亟待解决的重大挑战。目前的研究主要集中于将各类翻译知识整合到语音大模型中，但这些方法往往会受到无关信息的干扰，且未能充分发挥翻译知识的潜力。针对这些问题，本研究提出了创新性的Locate-and-Focus方法。该方法首先精准定位语音中包含专业术语的语音片段，效减少语音翻译模型中的干扰信息。随后，该方法将翻译知识与语音和翻译文本建立关联，使语音大模型在翻译过程中能够更加精准地聚焦于相关的翻译知识。在多个数据集上的实验结果证明了我们方法不仅能够有效定位语音中的专业术语，并显著提高了专业术语的翻译准确率，同时还能够保持通用翻译的质量。
