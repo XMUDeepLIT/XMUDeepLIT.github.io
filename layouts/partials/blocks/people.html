@@ -29,10 +29,15 @@
 
     {{/* Sort */}}
     {{ $sort_by := $block.content.sort_by | default "Params.last_name" }}
+    {{ $sort_by_weight := "Params.weight" }}
+    {{ $sort_by_title := "Params.title" }}
     {{ $sort_by = partial "blox-core/functions/get_sort_by_parameter" $sort_by }}
+    {{ $sort_by_weight := partial "blox-core/functions/get_sort_by_parameter" $sort_by_weight }}
+    {{ $sort_by_title := partial "blox-core/functions/get_sort_by_parameter" $sort_by_title }}
     {{ $sort_ascending := $block.content.sort_ascending | default true }}
     {{ $sort_order := cond $sort_ascending "asc" "desc" }}
-    {{ $query = sort $query $sort_by $sort_order }}
+    {{ $query = sort $query $sort_by_title $sort_order }}
+    {{ $query = sort $query $sort_by_weight $sort_order }}
 
     {{if $query | and (gt (len $block.content.user_groups) 1) }}
       <div class="col-md-12">
@@ -52,7 +57,7 @@
         {{ if site.Params.features.avatar.gravatar }}
           {{ $src = printf "https://s.gravatar.com/avatar/%s?s=150" (md5 .Params.email) }}
         {{ else if $avatar }}
-          {{ $avatar_image := $avatar.Fill "500x500 center" }}
+          {{ $avatar_image := $avatar.Fill "270x270 Center" }}
           {{ $src = $avatar_image.RelPermalink }}
         {{ end }}
         {{ if $src }}
