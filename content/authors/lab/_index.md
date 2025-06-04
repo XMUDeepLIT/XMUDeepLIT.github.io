@@ -10,8 +10,8 @@ authors:
 superuser: true
 
 # Role/position
-role: <span style="color:#d6442a;"><b>L</b></span>anguage  
-      <span style="color:#01c260;"><b>I</b></span>ntelligence  
+role: <span style="color:#ff0000;"><b>L</b></span>anguage  
+      <span style="color:#32CD32;"><b>I</b></span>ntelligence  
       <span style="color:#0000ff;"><b>T</b></span>echnology
 
 # Organizations/Affiliations
