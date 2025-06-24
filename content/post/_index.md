@@ -2,7 +2,7 @@
 title: 最新资讯
 
 # Listing view
-view: compact
+view: card
 
 # Optional banner image (relative to `assets/media/` folder).
 banner:
