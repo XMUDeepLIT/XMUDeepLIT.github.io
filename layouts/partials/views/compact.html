@@ -73,7 +73,7 @@
     {{ end }}
 
   </div>
-  <div class="ml-3" style="width: 300px; height: 220px;">
+  <div class="ml-3">
     {{ $resource := partial "blox-core/functions/get_featured_image.html" $item }}
     {{ with $resource }}
       {{ $image := .Resize "600x400" }}
