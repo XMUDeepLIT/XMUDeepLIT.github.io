@@ -2,8 +2,9 @@
 title: 课题组1篇论文被 Neural Networks 录用
 date: 2025-05-02
 ---
+&emsp;&emsp;Neural Networks是国际著名的学术期刊，专注于神经网络及深度学习领域的前沿研究，在CCF学术推荐列表中认定为B类期刊。
 <!--more-->
-Neural Networks是国际著名的学术期刊，专注于神经网络及深度学习领域的前沿研究，在CCF学术推荐列表中认定为B类期刊。
+
 - - - 
 - 论文标题：Towards Better Text Image Machine Translation with Multimodal Codebook and Multi-stage Training
 - 录用类型：Neural Networks

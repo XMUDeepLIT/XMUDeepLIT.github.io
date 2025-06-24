@@ -2,8 +2,9 @@
 title: 课题组1篇论文被 ICML2025 录用
 date: 2025-05-03
 ---
+&emsp;&emsp;ICML会议（International Conference on Machine Learning，国际机器学习会议），是全球人工智能和机器学习领域最具影响力的学术会议之一，在CCF学术推荐列表中认定为A类会议。ICML 2025将于2025年7月在加拿大温哥华举行。
 <!--more-->
-ICML会议（International Conference on Machine Learning，国际机器学习会议），是全球人工智能和机器学习领域最具影响力的学术会议之一，在CCF学术推荐列表中认定为A类会议。ICML 2025将于2025年7月在加拿大温哥华举行。
+
 - - - 
 - 论文标题：EpiCoder: Encompassing Diversity and Complexity in Code Generation
 - 录用类型：ICML2025主会长文

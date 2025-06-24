@@ -3,8 +3,9 @@ title: 课题组7篇论文被 ACL2025 录用
 date: 2025-05-18
 
 ---
-<!--more-->
 ACL会议全称为Annual Meeting of the Association for Computational Linguistics，由国际计算语言学协会ACL举办，是自然语言处理最重要的学术会议，在CCF学术推荐列表中认定为A类会议。‌ACL 2025将于2025年7月27日至8月1日在奥地利维也纳举行。
+<!--more-->
+
 - - - 
 - 论文标题：Advancing SMoE for Continuous Domain Adaptation of MLLMs: Adaptive Router and Domain-Specific Loss
 - 录用类型：Main, Long paper
