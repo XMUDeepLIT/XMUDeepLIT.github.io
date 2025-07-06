@@ -11,5 +11,5 @@ author_notes:
 date: "2019-05-28T18:05:11Z"
 publishDate: "2025-05-28T18:05:11Z"
 publication_types: []
-publication: "**In Proc. of ACMMM 2019.** (CCF-A类)"
+publication: "**In Proc. of ACM Multimedia 2019.** (CCF-A类)"
 ---
