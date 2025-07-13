@@ -56,8 +56,16 @@ def create_directory_and_file():
 title: 
 date: {current_date}
 ---
-
-<!--more-->"""
+&emsp;&emsp;
+<!--more-->
+- - -
+- 论文标题：
+- 录用类型：
+- 论文作者：
+- 完成单位：
+![](1.png)
+- 论文简介：
+"""
     
     # 写入文件
     try:
