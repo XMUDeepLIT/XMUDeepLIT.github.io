@@ -21,5 +21,5 @@ author_notes:
 date: "2025-07-06T11:05:04Z"
 publishDate: "2025-07-06T11:05:04Z"
 publication_types: [direction7]
-publication: "**In Proceedings of KDD 2025 Datasets and Benchmarks Track 2025.** (CCF-A类)"
+publication: "**In Proc. of KDD 2025 Datasets and Benchmarks Track 2025.** (CCF-A类)"
 ---

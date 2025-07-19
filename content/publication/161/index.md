@@ -19,5 +19,5 @@ author_notes:
 date: "2025-07-06T11:02:42Z"
 publishDate: "2025-07-06T11:02:42Z"
 publication_types: [direction2]
-publication: "**In Proceedings of ACM Multimedia 2025.** (CCF-A类)"
+publication: "**In Proc. of ACM Multimedia 2025.** (CCF-A类)"
 ---

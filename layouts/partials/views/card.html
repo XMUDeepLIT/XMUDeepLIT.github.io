@@ -41,21 +41,7 @@
     {{ partial "page_metadata" (dict "page" $item "is_list" 1) }}
   {{ end }}
 
-  {{ $resource := partial "blox-core/functions/get_featured_image.html" $item }}
-  {{ $anchor := $item.Params.image.focal_point | default "Smart" }}
-  {{ with $resource }}
-    <!-- {{ $image := .Fit (printf "6400x4800 %s" $anchor) }} -->
-    {{ $image := .Fit "6400x4800 Smart" }}
-    {{ if ne $image.MediaType.SubType "gif" }}{{ $image = $image.Process "webp" }}{{ end }}
-    <a href="{{ $link }}" {{ $target | safeHTMLAttr }}>
-      <div class="img-hover-zoom">
-        <img src="{{ $image.RelPermalink }}" height="{{ $image.Height }}" width="{{ $image.Width }}"
-            class="article-banner" alt="{{ $item.Title }}" loading="lazy">
-      </div>
 
-
-    </a>
-  {{end}}
 
   <div class="section-subheading article-title mb-1 mt-3">
     <a href="{{ $link }}" {{ $target | safeHTMLAttr }}>{{ $item.Title }}</a>
@@ -74,5 +60,21 @@
     {{ partial "page_links" (dict "page" $item "is_list" 1) }}
   </div>
   {{ end }}
+  {{ $resource := partial "blox-core/functions/get_featured_image.html" $item }}
+  {{ $anchor := $item.Params.image.focal_point | default "Smart" }}
+  {{ with $resource }}
+    <!-- {{ $image := .Fit (printf "6400x4800 %s" $anchor) }} -->
+    {{ $image := .Fit "6400x4800 Smart" }}
+    {{ if ne $image.MediaType.SubType "gif" }}{{ $image = $image.Process "webp" }}{{ end }}
+    <div class="article-banner-container">
+    <a href="{{ $link }}" {{ $target | safeHTMLAttr }}>
+      <div class="img-hover-zoom">
+        <img src="{{ $image.RelPermalink }}" height="{{ $image.Height }}" width="{{ $image.Width }}"
+            class="article-banner" alt="{{ $item.Title }}" loading="lazy">
+      </div>
 
+
+    </a>
+  </div>
+  {{end}}
 </div>
