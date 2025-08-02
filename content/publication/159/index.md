@@ -19,5 +19,5 @@ author_notes:
 date: "2025-05-29T08:15:30Z"
 publishDate: "2025-05-29T08:15:30Z"
 publication_types: [direction6]
-publication: "**In Proc. of ACL 2025.** (CCF-A类)"
+publication: "**In Proc. of ACL 2025. SAC highlight.** (CCF-A类)"
 ---
