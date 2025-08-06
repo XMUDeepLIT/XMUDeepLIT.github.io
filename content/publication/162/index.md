@@ -1,27 +1,25 @@
 ---
-title: "EditEval: Towards Comprehensive and Automatic Evaluation for Text-guided Video Editing"
+title: "Revolutionizing Database QA with Large Language Models: Comprehensive Benchmark and Evaluation"
 authors:
-- Bingshuai Liu
-- Ante Wang
-- Zijun Min
-- Chenyang Lyu
-- Longyue Wang
-- Zhihao Wang
-- Xu Han
-- Peng Li
+- Yihang Zheng
+- Bo Li
+- Zhenghao Lin
+- Yi Luo
+- Xuanhe Zhou
+- Chen Lin
+- Guoliang Li
 - Jinsong Su
 author_notes:
-- "共同一作"
-- "共同一作"
-- "共同一作"
 - 
 - 
 - 
 - 
 - 
-- "通讯作者"
-date: "2025-07-06T11:03:43Z"
-publishDate: "2025-07-06T11:03:43Z"
+- 
+- 
+- 
+date: "2025-07-06T11:05:04Z"
+publishDate: "2025-07-06T11:05:04Z"
 publication_types: [direction7]
-publication: "**In Proc. of ACM Multimedia 2025.** (CCF-A类)"
+publication: "**In Proc. of KDD 2025 Datasets and Benchmarks Track 2025.** (CCF-A类)"
 ---

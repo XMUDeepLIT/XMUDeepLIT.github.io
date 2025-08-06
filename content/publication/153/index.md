@@ -1,21 +1,23 @@
 ---
-title: "Towards Better Text Image Machine Translation with Multimodal Codebook and Multi-stage Training"
+title: "Investigating Inference-time Scaling for Chain of Multi-modal Thought: A Preliminary Study"
 authors:
-- Zhibin Lan
-- Jiawei Yu
-- Shiyu Liu
-- Junfeng Yao
-- Degen Huang
+- Yujie Lin
+- Ante Wang
+- Moye Chen
+- Jingyao Liu
+- Hao Liu
 - Jinsong Su
+- Xinyan Xiao
 author_notes:
-- 
-- 
+- "共同一作"
+- "共同一作"
 - 
 - 
 - 
 - "通讯作者"
-date: "2025-05-29T08:14:49Z"
-publishDate: "2025-05-29T08:14:49Z"
-publication_types: [direction2]
-publication: "**Neural Networks.** (CCF-B类)"
+- 
+date: "2025-05-29T08:14:59Z"
+publishDate: "2025-05-29T08:14:59Z"
+publication_types: [direction9]
+publication: "**In Proc. of ACL 2025 findings.**"
 ---

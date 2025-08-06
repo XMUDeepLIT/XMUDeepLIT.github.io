@@ -1,21 +1,25 @@
 ---
-title: "A Simple yet Effective Self-Debiasing Framework for Transformer Models"
+title: "LiteSearch: Efficient Tree Search with Dynamic Exploration Budget for Math Reasoning"
 authors:
-- Xiaoyue Wang
-- Xin Liu
-- Lijie Wang
-- Suhang Wu
+- Ante Wang
+- Linfeng Song
+- Ye Tian
+- Baolin Peng
+- Dian Yu
+- Haitao Mi
 - Jinsong Su
-- Hua Wu
+- Dong Yu
 author_notes:
-- "共同一作"
-- "共同一作"
+- 
+- "通讯作者"
+- 
+- 
 - 
 - 
 - "通讯作者"
 - 
-date: "2024-05-29T08:13:15Z"
-publishDate: "2025-05-29T08:13:15Z"
-publication_types: [direction7]
-publication: "**Artificial Intelligence.** (CCF-A类)"
+date: "2025-05-29T08:13:24Z"
+publishDate: "2025-05-29T08:13:24Z"
+publication_types: [direction9]
+publication: "**In Proc. of AAAI 2025.** (CCF-A类)"
 ---

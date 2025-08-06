@@ -1,11 +1,11 @@
 ---
-title: "Towards Better Graph-based Cross-document Relation Extraction via Non-bridge Entity Enhancement and Prediction Debiasing"
+title: "Translatotron-V(ison): An End-to-End Model for In-Image Machine Translation"
 authors:
-- Hao Yue
-- Shaopeng Lai
-- Chengyi Yang
-- Liang Zhang
-- Junfeng Yao
+- Zhibin Lan
+- Liqiang Niu
+- Fandong Meng
+- Jie Zhou
+- Min Zhang
 - Jinsong Su
 author_notes:
 - 
@@ -14,8 +14,8 @@ author_notes:
 - 
 - 
 - "通讯作者"
-date: "2024-05-29T08:09:16Z"
-publishDate: "2025-05-29T08:09:16Z"
-publication_types: [direction5]
+date: "2024-05-29T08:09:23Z"
+publishDate: "2025-05-29T08:09:23Z"
+publication_types: [direction2]
 publication: "**In Proc. of ACL 2024 findings.**"
 ---

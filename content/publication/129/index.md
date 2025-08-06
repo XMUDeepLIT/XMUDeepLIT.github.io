@@ -1,23 +1,21 @@
 ---
-title: "Efficient $k$-Nearest-Neighbor Machine Translation with Dynamic Retrieval"
+title: "Towards Better Graph-based Cross-document Relation Extraction via Non-bridge Entity Enhancement and Prediction Debiasing"
 authors:
-- Yan Gao
-- Zhiwei Cao
-- Zhongjian Miao
-- Baosong Yang
-- Shiyu Liu
-- Min Zhang
+- Hao Yue
+- Shaopeng Lai
+- Chengyi Yang
+- Liang Zhang
+- Junfeng Yao
 - Jinsong Su
 author_notes:
-- "共同一作"
-- "共同一作"
+- 
 - 
 - 
 - 
 - 
 - "通讯作者"
-date: "2024-05-29T08:08:57Z"
-publishDate: "2025-05-29T08:08:57Z"
-publication_types: [direction1]
+date: "2024-05-29T08:09:16Z"
+publishDate: "2025-05-29T08:09:16Z"
+publication_types: [direction5]
 publication: "**In Proc. of ACL 2024 findings.**"
 ---

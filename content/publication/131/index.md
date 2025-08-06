@@ -1,21 +1,25 @@
 ---
-title: "Translatotron-V(ison): An End-to-End Model for In-Image Machine Translation"
+title: "Improving LLM Generations via Fine-Grained Self-Endorsement"
 authors:
-- Zhibin Lan
-- Liqiang Niu
-- Fandong Meng
-- Jie Zhou
-- Min Zhang
+- Ante Wang
+- Linfeng Song
+- Baolin Peng
+- Lifeng Jin
+- Ye Tian
+- Haitao Mi
 - Jinsong Su
+- Dong Yu
 author_notes:
 - 
+- "通讯作者"
 - 
 - 
 - 
 - 
 - "通讯作者"
-date: "2024-05-29T08:09:23Z"
-publishDate: "2025-05-29T08:09:23Z"
-publication_types: [direction2]
+- 
+date: "2024-05-29T08:10:51Z"
+publishDate: "2025-05-29T08:10:51Z"
+publication_types: [direction9]
 publication: "**In Proc. of ACL 2024 findings.**"
 ---

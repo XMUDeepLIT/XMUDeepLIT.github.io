@@ -1,13 +1,12 @@
 ---
-title: "Signer Diversity-driven Data Augmentation for Signer-Independent Sign Language Translation"
+title: "GENET: Unleashing the Power of Side Information for Recommendation via Hypergraph Pre-training"
 authors:
-- Honghao Fu
-- Liang Zhang
-- Biao Fu
-- Rui Zhao
+- Yang Li
+- Qiao Zhao
+- Chen Lin
+- Zhenjie Zhang
+- Xiaomin Zhu
 - Jinsong Su
-- Xiaodong Shi
-- Yidong Chen
 author_notes:
 - 
 - 
@@ -15,9 +14,8 @@ author_notes:
 - 
 - 
 - 
-- 
-date: "2024-05-29T08:08:29Z"
-publishDate: "2025-05-29T08:08:29Z"
-publication_types: [direction2]
-publication: "**In Proc. of NAACL 2024.** (CCF-B类)"
+date: "2024-05-29T08:08:37Z"
+publishDate: "2025-05-29T08:08:37Z"
+publication_types: []
+publication: "**In Proc. of DASFAA 2024, Short Paper.**"
 ---

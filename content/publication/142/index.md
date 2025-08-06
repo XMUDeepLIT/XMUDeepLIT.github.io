@@ -1,29 +1,25 @@
 ---
-title: "Multi-Level Cross-Modal Alignment for Speech Relation Extraction"
+title: "A Learning Rate Path Switching Training Paradigm for Version Updates of Large Language Models"
 authors:
-- Liang Zhang
-- Zhen Yang
-- Biao Fu
-- Ziyao Lu
-- Liangying Shao
+- Zhihao Wang
 - Shiyu Liu
-- Fandong Meng
-- Jie Zhou
-- Xiaoli Wang
+- Jianheng Huang
+- Wang Zheng
+- YiXuan Liao
+- Xiaoxin Chen
+- Junfeng Yao
 - Jinsong Su
 author_notes:
-- 
-- 
-- 
-- 
+- "共同一作"
+- "共同一作"
 - 
 - 
 - 
 - 
 - 
 - "通讯作者"
-date: "2024-05-29T08:12:51Z"
-publishDate: "2025-05-29T08:12:51Z"
-publication_types: [direction5]
+date: "2024-05-29T08:12:59Z"
+publishDate: "2025-05-29T08:12:59Z"
+publication_types: [direction8]
 publication: "**In Proc. of EMNLP 2024.** (CCF-B类)"
 ---

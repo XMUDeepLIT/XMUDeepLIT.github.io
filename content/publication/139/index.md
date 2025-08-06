@@ -1,25 +1,23 @@
 ---
-title: "Self-Consistency Boosts Calibration for Math Reasoning"
+title: "One2Set + Large Language Model: Best Partners for Keyphrase Generation"
 authors:
-- Ante Wang
-- Linfeng Song
-- Ye Tian
-- Baolin Peng
-- Lifeng Jin
-- Haitao Mi
+- Liangying Shao
+- Liang Zhang
+- Minlong Peng
+- Guoqi Ma
+- Hao Yue
+- Mingming Sun
 - Jinsong Su
-- Dong Yu
 author_notes:
+- "共同一作"
+- "共同一作"
+- 
+- 
+- 
 - 
 - "通讯作者"
-- 
-- 
-- 
-- 
-- "通讯作者"
-- 
-date: "2024-05-29T08:11:55Z"
-publishDate: "2025-05-29T08:11:55Z"
-publication_types: [direction9]
-publication: "**In Proc. of EMNLP 2024.** Short Paper"
+date: "2024-05-29T08:12:32Z"
+publishDate: "2025-05-29T08:12:32Z"
+publication_types: [direction5]
+publication: "**In Proc. of EMNLP 2024.** (CCF-B类)"
 ---

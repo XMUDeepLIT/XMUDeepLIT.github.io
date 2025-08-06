@@ -1,27 +1,23 @@
 ---
-title: "Locate-and-Focus: Enhancing Terminology Translation in Speech Language Models"
+title: "Gloss Matters: Unlocking the Potential of Non-Autoregressive Sign Language Translation"
 authors:
-- Suhang Wu
-- Jialong Tang
-- Chengyi Yang
-- Pei Zhang
-- Baosong Yang
-- Junhui Li
+- Zhihao Wang
+- Shiyu Liu
+- Zhiwei He
+- Kangjie Zheng
+- Liangying Shao
 - Junfeng Yao
-- Min Zhang
 - Jinsong Su
 author_notes:
-- 
-- 
+- "共同一作"
+- "共同一作"
 - 
 - 
 - 
 - 
 - "通讯作者"
-- 
-- "通讯作者"
-date: "2025-05-29T08:15:38Z"
-publishDate: "2025-05-29T08:15:38Z"
-publication_types: [direction3]
-publication: "**In Proc. of ACL 2025.** (CCF-A类)"
+date: "2025-07-06T11:02:42Z"
+publishDate: "2025-07-06T11:02:42Z"
+publication_types: [direction2]
+publication: "**In Proc. of ACM Multimedia 2025.** (CCF-A类)"
 ---

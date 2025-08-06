@@ -1,13 +1,15 @@
 ---
-title: "Empowering Backbone Models for Visual Text Generation with Input Granularity Control and Glyph-Aware Training"
+title: "Multi-Level Cross-Modal Alignment for Speech Relation Extraction"
 authors:
-- Wenbo Li
-- Guohao Li
-- Zhibin Lan
-- Xue Xu
-- Wanru Zhuang
-- Jiachen Liu
-- Xinyan Xiao
+- Liang Zhang
+- Zhen Yang
+- Biao Fu
+- Ziyao Lu
+- Liangying Shao
+- Shiyu Liu
+- Fandong Meng
+- Jie Zhou
+- Xiaoli Wang
 - Jinsong Su
 author_notes:
 - 
@@ -17,9 +19,11 @@ author_notes:
 - 
 - 
 - 
+- 
+- 
 - "通讯作者"
-date: "2024-05-29T08:12:44Z"
-publishDate: "2025-05-29T08:12:44Z"
-publication_types: [direction2]
+date: "2024-05-29T08:12:51Z"
+publishDate: "2025-05-29T08:12:51Z"
+publication_types: [direction5]
 publication: "**In Proc. of EMNLP 2024.** (CCF-B类)"
 ---

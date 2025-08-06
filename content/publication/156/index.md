@@ -1,27 +1,21 @@
 ---
-title: "Don't Get Lost in the Trees: Streamlining LLM Reasoning by Overcoming Tree Search Exploration Pitfalls"
+title: "A Self-Denoising Model for Robust Few-Shot Relation Extraction"
 authors:
-- Ante Wang
-- Linfeng Song
-- Ye Tian
-- Dian Yu
-- Haitao Mi
-- Xiangyu Duan
-- Zhaopeng Tu
+- Liang Zhang
+- Yang zhang
+- Ziyao Lu
+- Fandong Meng
+- Jie Zhou
 - Jinsong Su
-- Dong Yu
 author_notes:
 - 
-- "通讯作者"
 - 
 - 
 - 
 - 
 - "通讯作者"
-- "通讯作者"
-- 
-date: "2025-05-29T08:15:12Z"
-publishDate: "2025-05-29T08:15:12Z"
-publication_types: [direction9]
+date: "2025-05-29T08:15:17Z"
+publishDate: "2025-05-29T08:15:17Z"
+publication_types: [direction5]
 publication: "**In Proc. of ACL 2025.** (CCF-A类)"
 ---

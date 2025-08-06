@@ -1,23 +1,17 @@
 ---
-title: "Retaining Key Information under High Compression Rates: Query-Guided Compressor for LLMs"
+title: "Lightweight Transformer for sEMG Gesture Recognition with Feature Distilled Variational Information Bottleneck"
 authors:
-- Zhiwei Cao
-- Qian Cao
-- Yu Lu
-- Ningxin Peng
-- Luyang Huang
-- Shanbo Cheng
+- Zefeng Wang
+- Bingbing Hu
+- Junfeng Yao
 - Jinsong Su
 author_notes:
-- "共同一作"
-- "共同一作"
 - 
 - 
 - 
-- "通讯作者"
-- "通讯作者"
-date: "2024-05-29T08:11:06Z"
-publishDate: "2025-05-29T08:11:06Z"
-publication_types: [direction6]
-publication: "**In Proc. of ACL 2024.** (CCF-A类)"
+- 
+date: "2024-05-29T08:11:13Z"
+publishDate: "2025-05-29T08:11:13Z"
+publication_types: []
+publication: "**In Proc. of ECAI 2024.** (CCF-B类)"
 ---

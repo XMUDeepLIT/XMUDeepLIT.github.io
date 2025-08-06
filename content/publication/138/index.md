@@ -1,23 +1,25 @@
 ---
-title: "Mitigating the Negative Impact of Over-association for Conversational Query Production"
+title: "Self-Consistency Boosts Calibration for Math Reasoning"
 authors:
 - Ante Wang
 - Linfeng Song
-- Zijun Min
-- Ge Xu
-- Xiaoli Wang
-- Junfeng Yao
+- Ye Tian
+- Baolin Peng
+- Lifeng Jin
+- Haitao Mi
 - Jinsong Su
+- Dong Yu
 author_notes:
-- "共同一作"
-- "共同一作"
+- 
+- "通讯作者"
 - 
 - 
 - 
 - 
 - "通讯作者"
-date: "2024-05-29T08:11:44Z"
-publishDate: "2025-05-29T08:11:44Z"
-publication_types: [direction4]
-publication: "**Information Processing and Management.** (CCF-B类)"
+- 
+date: "2024-05-29T08:11:55Z"
+publishDate: "2025-05-29T08:11:55Z"
+publication_types: [direction9]
+publication: "**In Proc. of EMNLP 2024.** Short Paper"
 ---

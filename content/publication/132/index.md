@@ -1,25 +1,25 @@
 ---
-title: "Improving LLM Generations via Fine-Grained Self-Endorsement"
+title: "Mitigating Catastrophic Forgetting in Large Language Models with Self-Synthesized Rehearsal"
 authors:
+- Jianheng Huang
+- Leyang Cui
 - Ante Wang
+- Chengyi Yang
+- Xinting Liao
 - Linfeng Song
-- Baolin Peng
-- Lifeng Jin
-- Ye Tian
-- Haitao Mi
+- Junfeng Yao
 - Jinsong Su
-- Dong Yu
 author_notes:
+- "共同一作"
+- "共同一作"
+- 
+- 
+- 
+- 
 - 
 - "通讯作者"
-- 
-- 
-- 
-- 
-- "通讯作者"
-- 
-date: "2024-05-29T08:10:51Z"
-publishDate: "2025-05-29T08:10:51Z"
-publication_types: [direction9]
-publication: "**In Proc. of ACL 2024 findings.**"
+date: "2024-05-29T08:10:59Z"
+publishDate: "2025-05-29T08:10:59Z"
+publication_types: [direction8]
+publication: "**In Proc. of ACL 2024.** (CCF-A类)"
 ---

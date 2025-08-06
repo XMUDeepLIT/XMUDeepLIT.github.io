@@ -1,21 +1,19 @@
 ---
-title: "GENET: Unleashing the Power of Side Information for Recommendation via Hypergraph Pre-training"
+title: "Who To Align With: Feedback-Oriented Multi-Modal Alignment in Recommendation Systems"
 authors:
 - Yang Li
 - Qiao Zhao
 - Chen Lin
-- Zhenjie Zhang
-- Xiaomin Zhu
 - Jinsong Su
+- Zhilin Zhang
 author_notes:
 - 
 - 
 - 
 - 
 - 
-- 
-date: "2024-05-29T08:08:37Z"
-publishDate: "2025-05-29T08:08:37Z"
+date: "2024-05-29T08:08:45Z"
+publishDate: "2025-05-29T08:08:45Z"
 publication_types: []
-publication: "**In Proc. of DASFAA 2024, Short Paper.**"
+publication: "**In Proc. of SIGIR 2024.** (CCF-A类)"
 ---

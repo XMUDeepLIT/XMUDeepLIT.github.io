@@ -1,23 +1,27 @@
 ---
-title: "FaithfulRAG: Fact-Level Conflict Modeling for Context-Faithful Retrieval-Augmented Generation"
+title: "Locate-and-Focus: Enhancing Terminology Translation in Speech Language Models"
 authors:
-- Qinggang Zhang
-- Zhishang Xiang
-- Yilin Xiao
-- Le Wang
+- Suhang Wu
+- Jialong Tang
+- Chengyi Yang
+- Pei Zhang
+- Baosong Yang
 - Junhui Li
-- Xinrun Wang
+- Junfeng Yao
+- Min Zhang
 - Jinsong Su
 author_notes:
-- "共同一作"
-- "共同一作"
+- 
+- 
 - 
 - 
 - 
 - 
 - "通讯作者"
-date: "2025-05-29T08:15:30Z"
-publishDate: "2025-05-29T08:15:30Z"
-publication_types: [direction6]
-publication: "**In Proc. of ACL 2025. SAC highlight.** (CCF-A类)"
+- 
+- "通讯作者"
+date: "2025-05-29T08:15:38Z"
+publishDate: "2025-05-29T08:15:38Z"
+publication_types: [direction3]
+publication: "**In Proc. of ACL 2025.** (CCF-A类)"
 ---

@@ -1,23 +1,21 @@
 ---
-title: "Investigating Inference-time Scaling for Chain of Multi-modal Thought: A Preliminary Study"
+title: "AVG-LLaVA: An Efficient Large Multimodal Model with Adaptive Visual Granularity"
 authors:
-- Yujie Lin
-- Ante Wang
-- Moye Chen
-- Jingyao Liu
-- Hao Liu
+- Zhibin Lan
+- Liqiang Niu
+- Fandong Meng
+- Wenbo Li
+- Jie Zhou
 - Jinsong Su
-- Xinyan Xiao
 author_notes:
-- "共同一作"
-- "共同一作"
+- 
+- 
 - 
 - 
 - 
 - "通讯作者"
-- 
-date: "2025-05-29T08:14:59Z"
-publishDate: "2025-05-29T08:14:59Z"
-publication_types: [direction9]
+date: "2025-05-29T08:15:06Z"
+publishDate: "2025-05-29T08:15:06Z"
+publication_types: [direction7]
 publication: "**In Proc. of ACL 2025 findings.**"
 ---

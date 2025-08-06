@@ -1,11 +1,12 @@
 ---
-title: "Advancing SMoE for Continuous Domain Adaptation of MLLMs: Adaptive Router and Domain-Specific Loss"
+title: "FaithfulRAG: Fact-Level Conflict Modeling for Context-Faithful Retrieval-Augmented Generation"
 authors:
-- Liang Zhang
-- Ziyao Lu
-- Fandong Meng
-- Hui Li
-- Jie Zhou
+- Qinggang Zhang
+- Zhishang Xiang
+- Yilin Xiao
+- Le Wang
+- Junhui Li
+- Xinrun Wang
 - Jinsong Su
 author_notes:
 - "共同一作"
@@ -13,9 +14,10 @@ author_notes:
 - 
 - 
 - 
+- 
 - "通讯作者"
-date: "2025-05-29T08:15:23Z"
-publishDate: "2025-05-29T08:15:23Z"
-publication_types: [direction7]
-publication: "**In Proc. of ACL 2025.** (CCF-A类)"
+date: "2025-05-29T08:15:30Z"
+publishDate: "2025-05-29T08:15:30Z"
+publication_types: [direction6]
+publication: "**In Proc. of ACL 2025. SAC highlight.** (CCF-A类)"
 ---

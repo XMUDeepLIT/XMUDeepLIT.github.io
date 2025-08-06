@@ -1,25 +1,17 @@
 ---
-title: "LiteSearch: Efficient Tree Search with Dynamic Exploration Budget for Math Reasoning"
+title: "UniGenCoder: Merging Seq2Seq and Seq2Tree Paradigms for Unified Code Generation"
 authors:
-- Ante Wang
-- Linfeng Song
-- Ye Tian
-- Baolin Peng
-- Dian Yu
-- Haitao Mi
+- Liangying Shao
+- Yanfu Yan
+- Denys Poshyvanyk
 - Jinsong Su
-- Dong Yu
 author_notes:
+- "共同一作"
+- "共同一作"
 - 
 - "通讯作者"
-- 
-- 
-- 
-- 
-- "通讯作者"
-- 
-date: "2025-05-29T08:13:24Z"
-publishDate: "2025-05-29T08:13:24Z"
-publication_types: [direction9]
-publication: "**In Proc. of AAAI 2025.** (CCF-A类)"
+date: "2025-05-29T08:13:33Z"
+publishDate: "2025-05-29T08:13:33Z"
+publication_types: [directionb]
+publication: "**In Proc. of ICSE 2025.** NIER Paper"
 ---

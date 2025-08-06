@@ -1,19 +1,23 @@
 ---
-title: "Who To Align With: Feedback-Oriented Multi-Modal Alignment in Recommendation Systems"
+title: "Efficient $k$-Nearest-Neighbor Machine Translation with Dynamic Retrieval"
 authors:
-- Yang Li
-- Qiao Zhao
-- Chen Lin
+- Yan Gao
+- Zhiwei Cao
+- Zhongjian Miao
+- Baosong Yang
+- Shiyu Liu
+- Min Zhang
 - Jinsong Su
-- Zhilin Zhang
 author_notes:
+- "共同一作"
+- "共同一作"
 - 
 - 
 - 
 - 
-- 
-date: "2024-05-29T08:08:45Z"
-publishDate: "2025-05-29T08:08:45Z"
-publication_types: []
-publication: "**In Proc. of SIGIR 2024.** (CCF-A类)"
+- "通讯作者"
+date: "2024-05-29T08:08:57Z"
+publishDate: "2025-05-29T08:08:57Z"
+publication_types: [direction1]
+publication: "**In Proc. of ACL 2024 findings.**"
 ---

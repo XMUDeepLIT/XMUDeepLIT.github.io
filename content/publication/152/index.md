@@ -1,35 +1,21 @@
 ---
-title: "EpiCoder: Encompassing Diversity and Complexity in Code Generation"
+title: "Towards Better Text Image Machine Translation with Multimodal Codebook and Multi-stage Training"
 authors:
-- Yaoxiang Wang
-- Haoling Li
-- Xin Zhang
-- Jie Wu
-- Xiao Liu
-- Wenxiang Hu
-- Zhongxin Guo
-- Yangyu Huang
-- Ying Xin
-- Yujiu Yang
+- Zhibin Lan
+- Jiawei Yu
+- Shiyu Liu
+- Junfeng Yao
+- Degen Huang
 - Jinsong Su
-- Qi Chen
-- Scarlett Li
 author_notes:
-- "共同一作"
-- "共同一作"
-- "共同一作"
-- 
 - 
 - 
 - 
 - 
 - 
 - "通讯作者"
-- "通讯作者"
-- 
-- 
-date: "2025-05-29T08:14:42Z"
-publishDate: "2025-05-29T08:14:42Z"
-publication_types: [direction8]
-publication: "**In Proc. of ICML 2025.** (CCF-A类)"
+date: "2025-05-29T08:14:49Z"
+publishDate: "2025-05-29T08:14:49Z"
+publication_types: [direction2]
+publication: "**Neural Networks.** (CCF-B类)"
 ---

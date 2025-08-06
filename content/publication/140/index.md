@@ -1,23 +1,25 @@
 ---
-title: "One2Set + Large Language Model: Best Partners for Keyphrase Generation"
+title: "Empowering Backbone Models for Visual Text Generation with Input Granularity Control and Glyph-Aware Training"
 authors:
-- Liangying Shao
-- Liang Zhang
-- Minlong Peng
-- Guoqi Ma
-- Hao Yue
-- Mingming Sun
+- Wenbo Li
+- Guohao Li
+- Zhibin Lan
+- Xue Xu
+- Wanru Zhuang
+- Jiachen Liu
+- Xinyan Xiao
 - Jinsong Su
 author_notes:
-- "共同一作"
-- "共同一作"
+- 
+- 
+- 
 - 
 - 
 - 
 - 
 - "通讯作者"
-date: "2024-05-29T08:12:32Z"
-publishDate: "2025-05-29T08:12:32Z"
-publication_types: [direction5]
+date: "2024-05-29T08:12:44Z"
+publishDate: "2025-05-29T08:12:44Z"
+publication_types: [direction2]
 publication: "**In Proc. of EMNLP 2024.** (CCF-B类)"
 ---

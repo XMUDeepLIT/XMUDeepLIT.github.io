@@ -1,25 +1,25 @@
 ---
-title: "A Learning Rate Path Switching Training Paradigm for Version Updates of Large Language Models"
+title: "Towards Cross-Modal Text-Molecule Retrieval with Better Modality Alignment"
 authors:
-- Zhihao Wang
-- Shiyu Liu
-- Jianheng Huang
-- Wang Zheng
-- YiXuan Liao
-- Xiaoxin Chen
-- Junfeng Yao
+- Jia Song
+- Wanru Zhuang
+- Yujie Lin
+- Liang Zhang
+- Chunyan Li
 - Jinsong Su
+- Song He
+- Xiaochen Bo
 author_notes:
-- "共同一作"
-- "共同一作"
 - 
 - 
 - 
 - 
 - 
 - "通讯作者"
-date: "2024-05-29T08:12:59Z"
-publishDate: "2025-05-29T08:12:59Z"
-publication_types: [direction8]
-publication: "**In Proc. of EMNLP 2024.** (CCF-B类)"
+- "通讯作者"
+- "通讯作者"
+date: "2024-05-29T08:13:06Z"
+publishDate: "2025-05-29T08:13:06Z"
+publication_types: [directionc]
+publication: "**In Proc. of BIBM 2024.** (CCF-B类)"
 ---

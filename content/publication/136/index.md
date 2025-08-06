@@ -1,23 +1,23 @@
 ---
-title: "On the Cultural Gap in Text-to-Image Generation"
+title: "Exploring Optimal Transport-Based Multi-Grained Alignments for Text-Molecule Retrieval"
 authors:
+- Zijun Min
 - Bingshuai Liu
-- Longyue Wang
-- Chenyang Lyu
-- Yong Zhang
+- Liang Zhang
+- Jia Song
 - Jinsong Su
-- Shuming Shi
-- Zhaopeng Tu
+- Song He
+- Xiaochen Bo
 author_notes:
+- "共同一作"
+- "共同一作"
 - 
 - 
-- 
-- 
-- 
-- 
-- 
-date: "2024-05-29T08:11:20Z"
-publishDate: "2025-05-29T08:11:20Z"
-publication_types: [direction2]
-publication: "**In Proc. of ECAI 2024.** (CCF-B类)"
+- "通讯作者"
+- "通讯作者"
+- "通讯作者"
+date: "2024-05-29T08:11:30Z"
+publishDate: "2025-05-29T08:11:30Z"
+publication_types: [directionc]
+publication: "**In Proc. of BIBM 2024.** (CCF-B类)"
 ---
