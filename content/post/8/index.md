@@ -1,8 +1,8 @@
 ---
-title: 课题组1篇论文被期刊IPM录用
+title: DeepLIT课题组1篇论文被期刊IPM录用
 date: 2025-07-09
 ---
-&emsp;&emsp;近日，课题组1篇论文被期刊IPM录用。IPM期刊全称为Information Processing & Management，在CCF学术推荐列表中认定为B类期刊。
+&emsp;&emsp;近日，厦门大学语言智能技术课题组（DeepLIT课题组）1篇论文被期刊IPM录用。IPM期刊全称为Information Processing & Management，在CCF学术推荐列表中认定为B类期刊。
 <!--more-->
 - - - 
 - 论文标题：DocTER: Evaluating Document-based Knowledge Editing

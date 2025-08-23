@@ -1,8 +1,8 @@
 ---
-title: 课题组1篇论文入选ACL 2025 SAC Highlights
+title: DeepLIT课题组1篇论文入选ACL 2025 SAC Highlights
 date: 2025-08-04
 ---
-&emsp;&emsp;近日，课题组FaithfulRAG工作入选ACL 2025 SAC Highlights。ACL 2025于2025年7月27日至8月1日在奥地利维也纳举行。本次会议共收到投稿8360份，主会录用论文1699篇，录用率为20.3%。其中，47篇被程序委员会评选为SAC Highlights论文，占比约0.57%。
+&emsp;&emsp;近日，厦门大学语言智能技术课题组（DeepLIT课题组）FaithfulRAG工作入选ACL 2025 SAC Highlights。ACL 2025于2025年7月27日至8月1日在奥地利维也纳举行。本次会议共收到投稿8360份，主会录用论文1699篇，录用率为20.3%。其中，47篇被程序委员会评选为SAC Highlights论文，占比约0.57%。
 <!--more-->
 - - -
 - 论文标题：FaithfulRAG: Fact-Level Conflict Modeling for Context-Faithful Retrieval-Augmented Generation

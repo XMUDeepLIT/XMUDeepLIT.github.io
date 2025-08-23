@@ -1,8 +1,8 @@
 ---
-title: 课题组2篇论文被ACM Multimedia 2025录用
+title: DeepLIT课题组2篇论文被ACM Multimedia 2025录用
 date: 2025-07-07
 ---
-&emsp;&emsp;近日，课题组2篇论文被第33届计算机多媒体国际会议ACM Multimedia 2025录用。ACM Multimedia是计算机图形学与多媒体方向的顶级学术会议，被中国计算机学会（CCF）评为A类会议，主要收录多媒体分析、检索、生成、理解与人机交互等方向的高质量论文。会议将于2025年10月27日至31日在爱尔兰都柏林的会议中心举行。
+&emsp;&emsp;近日，厦门大学语言智能技术课题组（DeepLIT课题组）2篇论文被第33届计算机多媒体国际会议ACM Multimedia 2025录用。ACM Multimedia是计算机图形学与多媒体方向的顶级学术会议，被中国计算机学会（CCF）评为A类会议，主要收录多媒体分析、检索、生成、理解与人机交互等方向的高质量论文。会议将于2025年10月27日至31日在爱尔兰都柏林的会议中心举行。
 <!--more-->
 - - -
 - 论文题目：Gloss Matters: Unlocking the Potential of Non-Autoregressive Sign Language Translation
