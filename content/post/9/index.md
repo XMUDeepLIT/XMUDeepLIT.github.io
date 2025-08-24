@@ -9,8 +9,7 @@ date: 2025-08-04
 - 录用类型：Main, Long paper
 - 论文作者：Qinggang Zhang+, Zhishang Xiang+, Yilin Xiao, Le Wang, Junhui Li, Xinrun Wang, and Jinsong Su*
 - 完成单位：厦门大学，香港理工大学，咪咕新空，苏州大学，新加坡管理大学
-- 论文简介：
-&emsp;&emsp;检索增强型生成（RAG）系统在处理知识密集型任务中展现出巨大潜力，然而，当检索到的上下文与模型的参数化知识发生冲突时，生成结果的不一致性问题成为了一个亟待解决的重大挑战。如图1所示，知识冲突导致模型的回答无法忠实于检索上下文从而导致准确率急剧下降。
+- 论文简介：检索增强型生成（RAG）系统在处理知识密集型任务中展现出巨大潜力，然而，当检索到的上下文与模型的参数化知识发生冲突时，生成结果的不一致性问题成为了一个亟待解决的重大挑战。如图1所示，知识冲突导致模型的回答无法忠实于检索上下文从而导致准确率急剧下降。
 <figure>
   <img src="1.jpg" alt="" style="width: 50%;">
   <figcaption style="text-align: center;">图1. 知识冲突导致模型回答不忠实于检索上下文</figcaption>

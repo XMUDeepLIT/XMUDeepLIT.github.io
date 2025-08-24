@@ -6,6 +6,10 @@ title: 语言智能技术课题组
 authors:
   - lab
 
+# Full name (for SEO)
+first_name: XMU
+last_name: DeepLIT
+
 # Is this the primary user of the site?
 superuser: true
 
