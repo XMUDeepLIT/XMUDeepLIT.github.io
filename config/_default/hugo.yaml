@@ -3,8 +3,8 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: XMU-DeepLIT # Website name
-baseURL: 'https://example.com/' # Website URL
+title: 厦门大学语言智能技术课题组 XMU-DeepLIT Deep Language Intelligence Technology of Xiamen University # Website name
+baseURL: 'https://xmudeeplit.github.io/' # Website URL
 
 ############################
 ## LANGUAGE
