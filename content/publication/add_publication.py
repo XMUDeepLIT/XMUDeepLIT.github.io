@@ -4,7 +4,8 @@ import os
 import sys
 from datetime import datetime,timezone
 
-
+# 字符串的四个部分分别为：作者列表、年份、论文标题、发表会议（及研究方向）
+# 示例输入：Qinggang Zhang+, Zhishang Xiang+, Yilin Xiao, Le Wang, Junhui Li, Xinrun Wang, and Jinsong Su*. 2025. FaithfulRAG: Fact-Level Conflict Modeling for Context-Faithful Retrieval-Augmented Generation. In Proc. of ACL2025. (CCF-A类)
 
 # 根据论文title获取arxiv论文信息
 def get_arxiv_paper_info(paper_title):
@@ -26,9 +27,6 @@ def get_arxiv_paper_info(paper_title):
     except Exception as e:
         return f"请求出错: {str(e)}"
     
-
-
-
 # 计算当前Python文件所在文件夹内的子文件夹数量，返回生成文件的ID
 def count_subdirectories():
     """
@@ -57,8 +55,6 @@ def count_subdirectories():
     except Exception as e:
         print(f"计算子文件夹数量时出错: {e}")
         return 0   
-
-
 
 # 解析引文字符串，形成字典
 def parse_citation(citation_str):
