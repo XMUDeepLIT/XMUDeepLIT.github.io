@@ -16,6 +16,6 @@ author_notes:
 - "通讯作者"
 date: "2025-08-26T09:54:17Z"
 publishDate: "2025-08-26T09:54:17Z"
-publication_types: [direction8]
+publication_types: [direction2]
 publication: "**In Proc. of EMNLP 2025 findings.**"
 ---
