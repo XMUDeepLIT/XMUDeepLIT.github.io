@@ -21,5 +21,5 @@ author_notes:
 date: "2025-08-26T10:11:19Z"
 publishDate: "2025-08-26T10:11:19Z"
 publication_types: [direction2]
-publication: "**In Proc. of EMNLP 2025** (CCF-B)."
+publication: "**In Proc. of EMNLP 2025 findings**"
 ---

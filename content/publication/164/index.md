@@ -19,5 +19,5 @@ author_notes:
 date: "2025-08-26T09:46:48Z"
 publishDate: "2025-08-26T09:46:48Z"
 publication_types: [direction5]
-publication: "**In Proc. of EMNLP 2025.** (CCF-B)"
+publication: "**In Proc. of EMNLP 2025** (CCF-B)"
 ---
