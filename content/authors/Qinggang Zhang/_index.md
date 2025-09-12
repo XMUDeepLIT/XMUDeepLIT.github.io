@@ -10,7 +10,7 @@ first_name: 张
 last_name: 庆刚
 
 # 老师们在这里可以填一些比较重要的头衔、职称，学生填20**级硕士/博士
-role: 助理教授
+role: 兼职专家
 weight: 3
 
 # 这里放跟自己相关的一些页面的链接，我预定义了三个：分别是邮箱、Google-scholar主页和github主页
