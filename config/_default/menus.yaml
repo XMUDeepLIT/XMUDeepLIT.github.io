@@ -11,6 +11,9 @@ main:
   - name: 最新资讯
     url: post
     weight: 20
+  - name: 动态成果
+    url: demo
+    weight: 25
   - name: 学术团队
     url: people
     weight: 30
