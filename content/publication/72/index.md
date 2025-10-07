@@ -20,6 +20,6 @@ author_notes:
 - "通讯作者"
 date: "2021-05-29T07:52:52Z"
 publishDate: "2025-05-29T07:52:52Z"
-publication_types: [directionb]
+publication_types: [directionc]
 publication: "**In Proc. of ACL 2021.** (CCF-A类)"
 ---

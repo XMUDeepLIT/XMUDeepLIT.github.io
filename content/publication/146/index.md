@@ -12,6 +12,6 @@ author_notes:
 - "通讯作者"
 date: "2025-05-29T08:13:33Z"
 publishDate: "2025-05-29T08:13:33Z"
-publication_types: [directionb]
+publication_types: [directionc]
 publication: "**In Proc. of ICSE 2025.** NIER Paper"
 ---

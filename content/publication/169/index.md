@@ -18,6 +18,6 @@ author_notes:
 - "通讯作者"
 date: "2025-07-06T11:04:44Z"
 publishDate: "2025-07-06T11:04:44Z"
-publication_types: [direction8]
+publication_types: [directionb]
 publication: "**Information Processing and Management.** (CCF-B类)"
 ---

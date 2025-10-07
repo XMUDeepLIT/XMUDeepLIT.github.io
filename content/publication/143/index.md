@@ -20,6 +20,6 @@ author_notes:
 - "通讯作者"
 date: "2024-05-29T08:13:06Z"
 publishDate: "2025-05-29T08:13:06Z"
-publication_types: [directionc]
+publication_types: [directiond]
 publication: "**In Proc. of BIBM 2024.** (CCF-B类)"
 ---
