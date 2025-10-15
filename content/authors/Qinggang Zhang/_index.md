@@ -39,7 +39,7 @@ user_groups:
 
 
 <!-- 老师的简要介绍 -->
-张庆刚，厦门大学信息学院兼职专家。在西北工业大学完成本科学业后，于2021年9月入学香港理工大学计算机系攻读博士学位，师从黄啸和曹建农教授。2025年6月获得工学博士学位，同年7月入职厦门大学信息学院。主要的研究方向包括自然语言处理、大模型、检索增强(RAG)、AI for Science、知识图谱、数据挖掘等。迄今在自然语言处理和数据挖掘领域发表论文十余篇，涵盖NeurIPS、KDD、ACL、TKDE等顶会顶刊。
+张庆刚，DeepLIT课题组兼职专家。在西北工业大学完成本科学业后，于2021年9月入学香港理工大学计算机系攻读博士学位，师从黄啸和曹建农教授。2025年6月获得工学博士学位，同年7月留校任博士后研究员。主要的研究方向包括自然语言处理、大模型、检索增强(RAG)、AI for Science、知识图谱、数据挖掘等。迄今在自然语言处理和数据挖掘领域发表论文二十余篇，涵盖NeurIPS、ICML、KDD、ACL、WWW、TKDE、TIOS等顶会顶刊。
 
 ### 研究方向
 * 自然语言处理
@@ -49,6 +49,7 @@ user_groups:
 * 数据挖掘
 
 ### 获得荣誉
+* ACL 2025 SAC Highlight Reward
 * KDD Student Travel Grant in 2024
 * Best Presentation Award of COMP 50th Anniversary Research Student Conference in 2024
 * SIGIR Student Travel Grant in 2022
