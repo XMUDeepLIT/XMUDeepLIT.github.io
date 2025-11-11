@@ -19,5 +19,5 @@ author_notes:
 date: "2025-11-10T06:38:35Z"
 publishDate: "2025-11-10T06:38:35Z"
 publication_types: [direction3]
-publication: "**In Proceedings of AAAI 2026.** (CCF-A类)"
+publication: "**In Proc. of AAAI 2026.** (CCF-A类)"
 ---
