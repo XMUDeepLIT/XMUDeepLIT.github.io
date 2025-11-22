@@ -21,7 +21,7 @@ date: 2025-11-09
 - - -
 - 论文标题：PLaST: Towards Paralinguistic-aware Speech Translation
 - 录用类型：AAAI2026, Main Technical Track
-- 论文作者：Yi Li, Rui Zhao, Ruiquan Zhang, Jinsong Su, Daimeng Wei, Min Zhang, Yidong Chen*
+- 论文作者：Yi Li, Rui Zhao, Ruiquan Zhang, Jinsong Su, Daimeng Wei, Min Zhang, Yidong Chen
 - 完成单位：厦门大学, 华为研究院
 ![](3.png)
 - 论文简介：语音翻译（Speech Translation, ST）旨在将源语言语音直接翻译为目标语言文本。然而，语音信号中除语言内容外，还包含语气、情感、强调等副语言线索（paralinguistic cues），这些信息可能显著影响甚至改变语义解读，从而导致不同的翻译结果。现有ST模型普遍缺乏对副语言信息的直接且充分建模，难以全面感知语音中的语用细微差别，限制了翻译性能的进一步提升。为此，本文提出了一种副语言感知的语音翻译框架（ParaLinguistic-aware Speech Translation, PLaST），通过双分支结构显式分离并融合语言与副语言信息。具体而言，PLaST利用语音编码器与风格提取器分别生成语言表征和副语言表征；为进一步获得与文本对齐的纯净语言表征，引入分层最优传输（Hierarchical Optimal Transport）机制对大语言模型解码器的层间输出进行约束；随后，设计基于注意力的检索模块（Attention-based Retrieval, AR），以语言表征为查询，动态检索并精炼副语言信息，实现语义理解与翻译生成的联合引导。在副语言敏感基准ContraProST上的实验表明，PLaST显著优于现有强基线方法；同时在标准语音翻译数据集CoVoST-2上也展现出良好的泛化能力，验证了该方法的有效性与实用性。
