@@ -1,5 +1,5 @@
 ---
-title: demo
+title: 动态成果
 
 # Listing view
 view: card
