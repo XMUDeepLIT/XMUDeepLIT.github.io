@@ -17,5 +17,5 @@ author_notes:
 date: "2023-05-29T08:04:04Z"
 publishDate: "2025-05-29T08:04:04Z"
 publication_types: []
-publication: "**In Proc. of ACL 2023 Findings.**"
+publication: "**In Proc. of ACL 2023 findings**"
 ---

@@ -205,7 +205,7 @@ if __name__ == "__main__":
     # generate_md_file(text_dict, str(folder_count))
     # # 测试用例
     # test_cases = [
-    #     "Xiaoyue Wang+, Linfeng Song+, Xin Liu, Chulun Zhou, Hualin Zeng and Jinsong Su*. 2022. Getting the Most out of Simile Recognition. In Proc. of EMNLP 2022 Findings. // 信息抽取",
+    #     "Xiaoyue Wang+, Linfeng Song+, Xin Liu, Chulun Zhou, Hualin Zeng and Jinsong Su*. 2022. Getting the Most out of Simile Recognition. In Proc. of EMNLP 2022 findings // 信息抽取",
     #     "Hui Jiang, Ziyao Lu, Fandong Meng, Chulun Zhou, Jie Zhou, Degen Huang and Jinsong Su*. 2022. Towards Robust k-Nearest-Neighbor Machine Translation. In Proc. of EMNLP 2022. (CCF-B类)// direction1",
         
     # ]   

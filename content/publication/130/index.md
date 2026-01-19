@@ -17,5 +17,5 @@ author_notes:
 date: "2024-05-29T08:09:23Z"
 publishDate: "2025-05-29T08:09:23Z"
 publication_types: [direction2]
-publication: "**In Proc. of ACL 2024 findings.**"
+publication: "**In Proc. of ACL 2024 findings**"
 ---

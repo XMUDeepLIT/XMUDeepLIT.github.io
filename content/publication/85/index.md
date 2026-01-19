@@ -21,5 +21,5 @@ author_notes:
 date: "2022-05-29T07:56:49Z"
 publishDate: "2025-05-29T07:56:49Z"
 publication_types: [direction1]
-publication: "**In Proc. of NAACL 2022 Findings.**"
+publication: "**In Proc. of NAACL 2022 findings**"
 ---

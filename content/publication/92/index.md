@@ -21,5 +21,5 @@ author_notes:
 date: "2022-05-29T07:58:46Z"
 publishDate: "2025-05-29T07:58:46Z"
 publication_types: []
-publication: "**In Proc. of EMNLP 2022 Findings.**"
+publication: "**In Proc. of EMNLP 2022 findings**"
 ---

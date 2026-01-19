@@ -13,5 +13,5 @@ author_notes:
 date: "2023-05-29T08:06:40Z"
 publishDate: "2025-05-29T08:06:40Z"
 publication_types: [direction4]
-publication: "**In Proc. of EMNLP 2023 Findings.**"
+publication: "**In Proc. of EMNLP 2023 findings**"
 ---
