@@ -18,6 +18,6 @@ author_notes:
 - "通讯作者"
 date: "2026-01-26T13:47:51Z"
 publishDate: "2026-01-26T13:47:51Z"
-publication_types: [direction6,directionb]
+publication_types: [direction6, directionb]
 publication: "**In Proc. of ICLR 2026**"
 ---
