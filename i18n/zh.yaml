@@ -285,6 +285,8 @@
   translation: 大模型推理
 - id: pub_directiona
   translation: 大模型智能体 
+- id: pub_directiona0
+  translation: 大模型安全 
 - id: pub_directionb
   translation: 大模型基准 
 - id: pub_directionc
