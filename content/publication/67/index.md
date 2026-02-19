@@ -7,8 +7,8 @@ authors:
 - Yubin Ge
 - Jinsong Su
 author_notes:
-- 
-- 
+- "共同一作"
+- "共同一作"
 - 
 - 
 - "通讯作者"
