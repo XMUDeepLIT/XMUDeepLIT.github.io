@@ -19,5 +19,5 @@ author_notes:
 date: "2026-01-26T13:29:39Z"
 publishDate: "2026-01-26T13:29:39Z"
 publication_types: [direction9]
-publication: "**In Proc. of ICLR 2026**"
+publication: "**In Proc. of ICLR 2026.** (CCF-A类)"
 ---

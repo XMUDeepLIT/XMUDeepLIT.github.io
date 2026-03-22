@@ -19,5 +19,5 @@ author_notes:
 date: "2023-05-29T08:05:18Z"
 publishDate: "2025-05-29T08:05:18Z"
 publication_types: [direction5]
-publication: "**In Proc. of ACM MM 2023.** (CCF-A类)."
+publication: "**In Proc. of ACM MM 2023.** (CCF-A类)"
 ---

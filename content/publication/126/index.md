@@ -17,5 +17,5 @@ author_notes:
 date: "2024-05-29T08:08:37Z"
 publishDate: "2025-05-29T08:08:37Z"
 publication_types: []
-publication: "**In Proc. of DASFAA 2024, Short Paper.**"
+publication: "**In Proc. of DASFAA 2024, Short Paper**"
 ---
