@@ -19,5 +19,5 @@ author_notes:
 date: "2026-04-13T10:02:49Z"
 publishDate: "2026-04-13T10:02:49Z"
 publication_types: [direction8]
-publication: "**In Proceedings of ACL 2026 findings**"
+publication: "**In Proc. of ACL 2026 findings**"
 ---

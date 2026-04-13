@@ -51,8 +51,8 @@ date: 2026-04-08
 - - -
 
 此外，课题组还有5篇合作论文被ACL 2026录用：
-- Rui Zhao, Xuewen Zhong, Xiaoyun Zheng, Jinsong Su, and Yidong Chen. 2026. CNSL-bench: Benchmarking the Sign Language Understanding Capabilities of MLLMs on Chinese National Sign Language. In Proceedings of ACL 2026.
-- Chang hao lai, Rui Zhao, Xuewen Zhong, Jinsong Su, and Yidong Chen. 2026. Selective Contrastive Learning For Gloss Free Sign Language Translation. In Proceedings of ACL 2026. 
-- Junchao Wu, Yefeng Liu, Chenyu Zhu, Hao Zhang, Zeyu Wu, Tianqi Shi, Yichao Du, Longyue Wang, Weihua Luo, Jinsong Su, and Derek F. Wong. 2026. DetectRL-X: Towards Reliable Multilingual and Real-World LLM-Generated Text Detection. In Proceedings of ACL 2026.
-- Zhiwen Ruan, Yichao Du, Jianjie Zheng, Longyue Wang, Yun Chen, Peng Li, Jinsong Su, Yang Liu, and Guanhua Chen. 2026. GIFT: Guided Fine-Tuning and Transfer for Enhancing Instruction-Tuned Language Models. In Proceedings of ACL 2026. 
-- Lingling Shi, Haoyu Jin, Ruiyu Fang, Shuangyong Song, Jinsong Su, Yongxiang Li, and Xuelong Li. 2026. CEMT：Controllable Element-Oriented Machine Translation via Structured Linguistic Reasoning. In Proceedings of ACL 2026 findings.
+- Rui Zhao, Xuewen Zhong, Xiaoyun Zheng, Jinsong Su, and Yidong Chen. 2026. CNSL-bench: Benchmarking the Sign Language Understanding Capabilities of MLLMs on Chinese National Sign Language. In Proc. of ACL 2026.
+- Chang hao lai, Rui Zhao, Xuewen Zhong, Jinsong Su, and Yidong Chen. 2026. Selective Contrastive Learning For Gloss Free Sign Language Translation. In Proc. of ACL 2026. 
+- Junchao Wu, Yefeng Liu, Chenyu Zhu, Hao Zhang, Zeyu Wu, Tianqi Shi, Yichao Du, Longyue Wang, Weihua Luo, Jinsong Su, and Derek F. Wong. 2026. DetectRL-X: Towards Reliable Multilingual and Real-World LLM-Generated Text Detection. In Proc. of ACL 2026.
+- Zhiwen Ruan, Yichao Du, Jianjie Zheng, Longyue Wang, Yun Chen, Peng Li, Jinsong Su, Yang Liu, and Guanhua Chen. 2026. GIFT: Guided Fine-Tuning and Transfer for Enhancing Instruction-Tuned Language Models. In Proc. of ACL 2026. 
+- Lingling Shi, Haoyu Jin, Ruiyu Fang, Shuangyong Song, Jinsong Su, Yongxiang Li, and Xuelong Li. 2026. CEMT：Controllable Element-Oriented Machine Translation via Structured Linguistic Reasoning. In Proc. of ACL 2026 findings.
