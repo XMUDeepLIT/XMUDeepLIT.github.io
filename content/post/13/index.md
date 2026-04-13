@@ -1,5 +1,5 @@
 ---
-title: DeepLIT课题组3篇论文被AAAI2026录用
+title: DeepLIT课题组3篇论文被 AAAI2026 录用
 date: 2025-11-09
 ---
 &emsp;&emsp;AAAI会议全称为 Association for the Advancement of Artificial Intelligence（人工智能促进协会）主办的 AAAI Conference on Artificial Intelligence，是人工智能领域的国际顶级学术会议。AAAI 2026将于 2026年1月20日-27日在新加坡会展中心举行。

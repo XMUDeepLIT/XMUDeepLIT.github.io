@@ -1,5 +1,5 @@
 ---
-title: DeepLIT课题组6篇论文被EMNLP2025录用
+title: DeepLIT课题组6篇论文被 EMNLP2025 录用
 date: 2025-08-23
 ---
 &emsp;&emsp;EMNLP会议全称为Conference on Empirical Methods in Natural Language Processing，是自然语言处理领域的国际顶级学术会议。‌EMNLP 2025 将于2025年11月5日至11月9日在中国苏州举行。
