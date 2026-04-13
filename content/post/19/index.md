@@ -5,8 +5,7 @@ date: 2026-04-08
 &emsp;&emsp;ACL 2026 是国际计算语言学协会（Association for Computational Linguistics, ACL）举办的年度旗舰会议，是自然语言处理（NLP）和计算语言学领域的顶级学术会议之一。ACL 2026将于2026年7月2日至7月7日在美国圣地亚哥举行。
 <!--more-->
 - - -
-- 论文标题：LegalGraphRAG: Multi-Agent Graph Retrieval-Augmented Generation for Reliable Legal
-Reasoning
+- 论文标题：LegalGraphRAG: Multi-Agent Graph Retrieval-Augmented Generation for Reliable Legal Reasoning
 - 录用类型：ACL 2026, Main, Long paper
 - 论文作者：Zerui Chen, Qinggang Zhang*, Zhishang Xiang, Zhimin Wei, Linfeng Gao, Xiao Huang, Zhihong Zhang*, Jinsong Su*
 - 完成单位：厦门大学，香港理工大学
