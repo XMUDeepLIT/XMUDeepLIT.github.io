@@ -1,5 +1,5 @@
 ---
-title: DeepLIT课题组6篇论文被 ACL2026 录用
+title: DeepLIT课题组多篇论文被 ACL2026 录用
 date: 2026-04-08
 ---
 &emsp;&emsp;ACL 2026 是国际计算语言学协会（Association for Computational Linguistics, ACL）举办的年度旗舰会议，是自然语言处理（NLP）和计算语言学领域的顶级学术会议之一。ACL 2026将于2026年7月2日至7月7日在美国圣地亚哥举行。
