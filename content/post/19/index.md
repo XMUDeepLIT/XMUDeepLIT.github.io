@@ -35,14 +35,14 @@ date: 2026-04-08
 - - -
 - 论文标题：Beyond Black-Box Interventions: Latent Probing for Faithful Retrieval-Augmented Generation
 - 录用类型：ACL 2026, Findings, Long paper
-- 论文作者：Linfeng Gao, Qinggang Zhang, Baolong Bi, Bo Zeng, Zheng Yuan, Zerui Chen, Zhimin Wei, Shenghua Liu, Linlong Xu, Longyue Wang, Weihua Luo, Jinsong Su*
+- 论文作者：Linfeng Gao, Qinggang Zhang*, Baolong Bi, Bo Zeng, Zheng Yuan, Zerui Chen, Zhimin Wei, Shenghua Liu, Linlong Xu, Longyue Wang, Weihua Luo, Jinsong Su*
 - 完成单位：厦门大学，阿里云
 ![](5.png)
 - 论文简介：检索增强生成（RAG）系统常常难以保持对上下文的忠实性，生成的回答可能与提供的上下文相冲突。现有方法尝试通过外部干预来提升忠实性，例如使用特殊提示、基于解码的校准或偏好优化。然而，由于这些方法将大语言模型视为黑箱，它们缺乏可靠的机制来评估冲突是如何发生的。因此，这些方法往往脆弱、依赖大量数据，并且无法洞察模型的内部推理过程。在本文中，我们超越黑箱式干预，转向分析模型的内部推理机制。我们发现，在模型的潜在空间中，冲突知识状态与一致知识状态是线性可分的，而上下文噪声会系统性地增加这些表示的熵。基于这些发现，我们提出了 ProbeRAG，这一全新的忠实 RAG 框架包含三个阶段：（i）细粒度的知识剪枝，用于过滤无关上下文；（ii）潜在冲突探测，用于识别模型潜在空间中的硬冲突；（iii）基于冲突的注意力机制，用于调整注意力头，使其更好地整合忠实的上下文。实验表明，ProbeRAG 在准确性和上下文忠实性方面都取得了显著提升。
 - - -
 - 论文标题：BAPO: Boundary-Aware Policy Optimization for Reliable Agentic Search
 - 录用类型：ACL 2026, Findings, Long paper
-- 论文作者：Shiyu Liu, Yongjing Yin, Jianhao Yan, Yunbo Tang, Qinggang Zhang, Bei Li, Xin Chen, Jingang Wang, Xunliang Cai, Jinsong Su*
+- 论文作者：Shiyu Liu, Yongjing Yin, Jianhao Yan, Yunbo Tang, Qinggang Zhang*, Bei Li, Xin Chen, Jingang Wang, Xunliang Cai, Jinsong Su*
 - 完成单位：厦门大学，美团，香港理工大学
 ![](6.png)
 - 论文简介：尽管当前基于 RL 训练的深度搜索Agent（如 Search-R1 等）通过在推理中自主搜索显著提升了多跳 QA 的性能，但我们的先导实验揭示了一个被忽视的严重问题：基于正确性奖励的RL削弱了模型的推理边界意识。
