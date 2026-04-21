@@ -15,5 +15,5 @@ author_notes:
 date: "2026-04-13T09:43:09Z"
 publishDate: "2026-04-13T09:43:09Z"
 publication_types: [direction2]
-publication: "**In Proceedings of ACL 2026.** (CCF-A类)"
+publication: "**In Proc. of ACL 2026.** (CCF-A类)"
 ---
