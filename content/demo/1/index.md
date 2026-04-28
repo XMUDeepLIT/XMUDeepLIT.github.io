@@ -5,7 +5,7 @@ date: 2025-12-01
 &emsp;&emsp;本视频展示了一套DeepLIT课题组自主研发的 GraphRAG 可视化交互 Web 系统。针对当前 RAG 技术中推理过程不透明、策略对比困难的问题，本系统集成了微软 GraphRAG 与港大 LightRAG 两大主流框架，为研究人员和开发者提供了一个强大的测试与分析环境。
 
 <!--more-->
-<video controls width="100%" src="GraphRAGdemo.mp4">
+<video controls width="100%" src="GraphRAG.mp4">
   您的浏览器不支持视频播放。
 </video>
 
