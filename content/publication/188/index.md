@@ -7,7 +7,7 @@ authors:
 - Yidong Chen
 - Min Zhang
 - Daimeng Wei
-- Derek F Wong
+- Derek F. Wong
 - Jinsong Su
 author_notes:
 - 

@@ -11,7 +11,7 @@ authors:
 - Longyue Wang
 - Weihua Luo
 - Jinsong Su
-- Derek F
+- Derek F. Wong
 author_notes:
 - 
 - 
