@@ -1,17 +1,17 @@
 ---
 # 中文名称
-title: 张庆刚
+title: 杨雅正
 
 #英文名，是展示在论文里面的名字
-englishname: Qinggang Zhang
+englishname: Yazheng Yang
 
 # Full name (for SEO)
-first_name: 张
-last_name: 庆刚
+first_name: 杨
+last_name: 雅正
 
 # 老师们在这里可以填一些比较重要的头衔、职称，学生填20**级硕士/博士
-role: 兼职专家
-weight: 4
+role: 助理教授
+weight: 3
 
 # 这里放跟自己相关的一些页面的链接，我预定义了三个：分别是邮箱、Google-scholar主页和github主页
 # 对于不想放上去或者自己没有的链接，直接删除即可。
@@ -20,13 +20,13 @@ weight: 4
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:zqg.zhang@hotmail.com'
+    link: ''
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.com/citations?hl=en&user=eF8PATI7r3IC
+    link: 
   - icon: github
     icon_pack: fab
-    link: https://github.com/DEEP-PolyU
+    link: 
 
 #  老师这里填Researchers即可，不用修改
 user_groups:
@@ -39,22 +39,14 @@ user_groups:
 
 
 <!-- 老师的简要介绍 -->
-张庆刚，DeepLIT课题组兼职专家。在西北工业大学完成本科学业后，于2021年9月入学香港理工大学计算机系攻读博士学位，师从黄啸和曹建农教授。2025年6月获得工学博士学位，同年7月留校任博士后研究员，现为吉林大学教授。主要的研究方向包括自然语言处理、大模型、检索增强(RAG)、AI for Science、知识图谱、数据挖掘等。迄今在自然语言处理和数据挖掘领域发表论文二十余篇，涵盖NeurIPS、ICML、KDD、ACL、WWW、TKDE、TIOS等顶会顶刊。
+杨雅正，本科就读于哈尔滨工业大学，硕士就读于浙江大学，并于2023年入学香港大学计算机系攻读博士学位。主要的研究方向包括自然语言处理、非结构化数据预训练、语音大模型等。迄今在相关领域发表论文二十余篇，涵盖ICML、ICLR、NeurIPS、KDD、ACL、TKDE等顶会顶刊。
+
 
 ### 研究方向
 * 自然语言处理
-* 大模型
-* RAG
-* 知识图谱
-* 数据挖掘
-
-### 获得荣誉
-* ACL 2025 SAC Highlight Reward
-* KDD Student Travel Grant in 2024
-* Best Presentation Award of COMP 50th Anniversary Research Student Conference in 2024
-* SIGIR Student Travel Grant in 2022
-* Vector Scholarship in Artificial Intelligence in 2021
+* 语音大模型
+* 非结构化数据预训练
 
 ### 学术兼职：
-* 长期担任TPAMI、TKDE、NeurIPS、ICML、ICLR、KDD、ACL等期刊和会议审稿人
+* 长期担任ICML、ICLR、NeurIPS、KDD、ACL、ACM Computing Surveys等期刊和会议审稿人
 

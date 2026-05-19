@@ -26,7 +26,7 @@ social:
     link: https://scholar.google.com/citations?user=w6qCk3sAAAAJ&hl=zh-CN&oi=ao
   - icon: github
     icon_pack: fab
-    link: https://github.com
+    link: https://github.com/XMUDeepLIT
 
 #  老师这里填Researchers即可，不用修改
 user_groups:
