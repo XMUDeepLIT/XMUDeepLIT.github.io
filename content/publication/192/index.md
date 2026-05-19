@@ -19,5 +19,5 @@ author_notes:
 date: "2026-05-18T13:27:53Z"
 publishDate: "2026-05-18T13:27:53Z"
 publication_types: [direction8]
-publication: "**In Proc. of KDD 2026 ADS Track.** (CCF-A类)."
+publication: "**In Proc. of KDD 2026 ADS Track.** (CCF-A类)"
 ---
