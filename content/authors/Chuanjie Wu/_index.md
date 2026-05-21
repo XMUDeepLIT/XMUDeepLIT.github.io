@@ -37,6 +37,7 @@ user_groups:
 
 ### 研究方向
 * 基于图的检索增强生成
+* Agent Skill
 
 
 
