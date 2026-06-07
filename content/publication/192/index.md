@@ -18,6 +18,6 @@ author_notes:
 - "通讯作者"
 date: "2026-05-18T13:27:53Z"
 publishDate: "2026-05-18T13:27:53Z"
-publication_types: [direction8]
+publication_types: [direction7]
 publication: "**In Proc. of KDD 2026 ADS Track.** (CCF-A类)"
 ---
