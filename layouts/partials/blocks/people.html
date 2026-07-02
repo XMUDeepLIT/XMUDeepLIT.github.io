@@ -26,6 +26,7 @@
 
   {{ range $block.content.user_groups }}
     {{ $query := where (where site.Pages "Section" "authors") ".Params.user_groups" "intersect" (slice .) }}
+    {{ $query = where $query ".Params.hide_from_people" "!=" true }}
 
     {{/* Sort */}}
     {{ $sort_by := $block.content.sort_by | default "Params.last_name" }}

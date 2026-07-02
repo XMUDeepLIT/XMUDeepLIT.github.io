@@ -30,7 +30,7 @@ weight: 5
 
 #  老师这里填Researchers即可，不用修改
 user_groups:
-  - Researchers
+  - Hide
 
 #接着下面是markdown格式的文本，是md文件的具体内容，分为四个部分，老师们可以自行进行修改、删减和添加
 ---

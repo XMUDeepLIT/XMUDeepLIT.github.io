@@ -26,7 +26,7 @@ social:
 
 #  硕士填Master Students ，博士填Ph.D. Students
 user_groups:
-  - Ph.D. Students
+  - Hide
 
 #接着下面是markdown格式的文本，是md文件的具体内容，同学们可以自行进行修改、删减和添加
 ---

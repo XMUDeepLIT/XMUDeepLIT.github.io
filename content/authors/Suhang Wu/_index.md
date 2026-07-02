@@ -41,7 +41,7 @@ social:
 #  硕士填Master Students ，博士填Ph.D. Students
 
 user_groups:
-    - Master Students
+    - Hide
 ---
 
 

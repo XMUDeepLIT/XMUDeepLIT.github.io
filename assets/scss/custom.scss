@@ -6,6 +6,19 @@
   margin: 20px 0 10px;
 }
 
+// // People页面：大屏幕每行显示6个人
+// @media (min-width: 992px) {
+//   .people-widget .people-person {
+//     flex: 0 0 16.666667%;
+//     max-width: 16.666667%;
+//   }
+
+//   .people-widget .people-person .avatar {
+//     max-width: 150px;
+//     height: auto;
+//   }
+// }
+
 //通讯作者作者note图标
 .author-correspond:before {
   content: "*";
@@ -74,4 +87,3 @@
   }
 }
                             
-

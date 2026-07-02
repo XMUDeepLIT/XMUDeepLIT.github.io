@@ -14,7 +14,7 @@ social:
     link: https://scholar.google.com/citations?user=Ulhk_8wAAAAJ
 
 user_groups:
-  - Master Students
+  - Hide
 
 
 ---

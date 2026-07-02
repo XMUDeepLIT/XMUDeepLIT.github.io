@@ -1,17 +1,20 @@
 ---
 # 中文名称
-title: 王志豪
+title: 魏智敏
 
 #英文名，是展示在论文里面的名字
-englishname: Zhihao Wang
+englishname: Zhimin Wei
 
 # Full name (for SEO)
-first_name: 王
-last_name: 志豪
+first_name: 魏
+last_name: 智敏
 
 # 同学们填20**级硕士研究生/博士研究生
-role: 2020级博士研究生
-weight: 2020
+role: 2026级硕士研究生
+
+# 权重就是自己的年级，用在网站上排序
+weight: 2026
+ 
 # 这里放跟自己相关的一些页面的链接，我预定义了三个：分别是邮箱、Google-scholar主页和github主页
 # 对于不想放上去或者自己没有的链接，直接删除即可。
 # 邮箱的格式是'mailto:你的邮箱',其他的放相应链接即可。
@@ -19,22 +22,30 @@ weight: 2020
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:zhwang@stu.xmu.edu.cn'
+    link: 'mailto:zhimin.wei@foxmail.com'
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.com/citations?hl=zh-CN&user=A6-EfFYAAAAJ
-
+    link: https://scholar.google.com/citations?user=hw6DscgAAAAJ&hl
+  # - icon: github
+  #   icon_pack: fab
+  #   link: https://github.com/zhiminwei551
+ 
 #  硕士填Master Students ，博士填Ph.D. Students
 user_groups:
-  - Hide
-
+  - Master Students
+ 
 #接着下面是markdown格式的文本，是md文件的具体内容，同学们可以自行进行修改、删减和添加
 ---
 <!-- 以下内容一定要遵循markdown语法 -->
 <!-- ###代表的是以三级标题的形式展示后面的文本，* 代表以列表的形式展示后面的文本-->
+ 
 <!-- 这里可以先放一段简要自我介绍或者是自己想要放上去的一些链接 ，不想放的话也可以删了-->
-
+<!-- (这里写自我介绍，如果不想写就直接把括号内容删了即可) -->
+ 
 ### 研究方向
-* 大语言模型训练
-* 非自回归生成
-* 模糊聚类
+* 检索增强生成
+
+<!-- 可以放校内外的一些荣誉，包括荣誉称号、奖学金、企业未来之星等等 -->
+<!-- ### 获得荣誉
+* 荣誉1
+* 荣誉2 -->
