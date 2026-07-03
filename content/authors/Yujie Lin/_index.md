@@ -6,7 +6,7 @@ englishname: Yujie Lin
 first_name: 林
 last_name: 渝杰
 
-role: 2023级硕士研究生
+role: 23级硕士研究生
 weight: 2023
 social:
   - icon: google-scholar

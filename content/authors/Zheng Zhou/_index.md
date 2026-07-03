@@ -10,7 +10,7 @@ first_name: 周
 last_name: 正
 
 # 同学们填20**级硕士研究生/博士研究生
-role: 2026级博士研究生
+role: 26级博士研究生
 
 weight: 2026
 
