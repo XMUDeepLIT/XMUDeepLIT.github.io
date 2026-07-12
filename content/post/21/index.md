@@ -1,5 +1,5 @@
 ---
-title: DeepLIT课题组2篇论文被 KDD2026 录用
+title: DeepLIT课题组2篇论文被 KDD 2026 录用
 date: 2026-05-18
 ---
 &emsp;&emsp;KDD 2026全称为第32届ACM SIGKDD知识发现与数据挖掘会议（ACM SIGKDD Conference on Knowledge Discovery and Data Mining），是数据挖掘与数据科学领域的国际顶级学术会议，被中国计算机学会列为A类会议。KDD 2026将于2026年8月9日至13日在韩国济州国际会议中心举行。

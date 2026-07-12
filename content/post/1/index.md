@@ -1,5 +1,5 @@
 ---
-title: DeepLIT课题组1篇论文被 IJCAI2025 录用
+title: DeepLIT课题组1篇论文被 IJCAI 2025 录用
 date: 2025-05-01
 ---
 &emsp;&emsp;IJCAI会议（International Joint Conference on Artificial Intelligence，国际人工智能联合会议）是人工智能领域最具历史和学术声望的国际会议之一，在CCF学术推荐列表中认定为A类会议。IJCAI 2025将于2025年8月在加拿大蒙特利尔举办。
@@ -7,7 +7,7 @@ date: 2025-05-01
 
 - - - 
 - 论文标题：Boosting Visual Knowledge-Intensive Training for LVLMs through Causality-driven Visual Object Completion
-- 录用类型：IJCAI2025
+- 录用类型：IJCAI 2025
 - 论文作者：Qingguo Hu+, Ante Wang+, Jia Song, Delai Qiu, Qingsong Liu, Jinsong Su\*
 - 完成单位：厦门大学，云知声
 ![](1.jpg)

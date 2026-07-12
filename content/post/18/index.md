@@ -1,5 +1,5 @@
 ---
-title: DeepLIT课题组4篇论文被 ICLR2026 录用
+title: DeepLIT课题组4篇论文被 ICLR 2026 录用
 date: 2026-01-27
 ---
 &emsp;&emsp;ICLR会议全称为International Conference on Learning Representations（国际学习表征会议），是深度学习领域顶级学术会议，与NeurIPS、ICML并称为机器学习三大顶级会议。ICLR 2026将于2026年4月23日至4月25日在巴西里约热内卢举行。

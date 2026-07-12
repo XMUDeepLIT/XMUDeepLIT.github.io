@@ -1,5 +1,5 @@
 ---
-title: DeepLIT课题组3篇论文被 ICML2026 和 IJCAI2026 录用
+title: DeepLIT课题组3篇论文被 ICML 2026 和 IJCAI 2026 录用
 date: 2026-05-03
 ---
 &emsp;&emsp;近日，DeepLIT课题组3篇论文被国际权威会议录用。ICML 2026会议全称为The Forty-Third International Conference on Machine Learning，在CCF学术推荐列表中被认定为A类会议，并将于2026年7月6日至11日在韩国首尔举行。IJCAI-ECAI 2026会议全称为The 35th International Joint Conference on Artificial Intelligence，在CCF学术推荐列表中被认定为B类会议，并将于2026年8月15日至21日在德国不来梅举行。此次被录用的论文的相关信息如下：

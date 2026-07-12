@@ -1,5 +1,5 @@
 import re
-import arxiv
+# import arxiv
 import os
 import sys
 from datetime import datetime,timezone
@@ -8,31 +8,31 @@ from datetime import datetime,timezone
 # 示例输入：Qinggang Zhang+, Zhishang Xiang+, Yilin Xiao, Le Wang, Junhui Li, Xinrun Wang, and Jinsong Su*. 2025. FaithfulRAG: Fact-Level Conflict Modeling for Context-Faithful Retrieval-Augmented Generation. In Proc. of ACL2025. (CCF-A类)
 
 # 根据论文title获取arxiv论文信息
-def get_arxiv_paper_info(paper_title):
-    client = arxiv.Client()
-    search = arxiv.Search(
-        query=f"ti:{paper_title}",
-        max_results=1,
-        sort_by=arxiv.SortCriterion.Relevance
-    )
+# def count_subdirectories(paper_title):
+#     client = arxiv.Client()
+#     search = arxiv.Search(
+#         query=f"ti:{paper_title}",
+#         max_results=1,
+#         sort_by=arxiv.SortCriterion.Relevance
+#     )
     
-    try:
-        result = next(client.results(search))
-        return {
-            "arxiv_link": result.entry_id,
-            "published_date": result.published.isoformat()
-        }
-    except StopIteration:
-        return "未找到匹配的论文"
-    except Exception as e:
-        return f"请求出错: {str(e)}"
+#     try:
+#         result = next(client.results(search))
+#         return {
+#             "arxiv_link": result.entry_id,
+#             "published_date": result.published.isoformat()
+#         }
+#     except StopIteration:
+#         return "未找到匹配的论文"
+#     except Exception as e:
+#         return f"请求出错: {str(e)}"
     
 # 计算当前Python文件所在文件夹内的子文件夹数量，返回生成文件的ID
 def count_subdirectories():
     """
     计算当前Python文件所在文件夹内的子文件夹数量
     (不包括文件、当前目录(.)和上级目录(..))
-    
+        
     返回:
         int: 子文件夹数量+1
     """
