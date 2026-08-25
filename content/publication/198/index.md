@@ -29,5 +29,5 @@ author_notes:
 date: "2026-08-22T08:37:23Z"
 publishDate: "2026-08-22T08:37:23Z"
 publication_types: [directionb]
-publication: "**In Proc. of EMNLP 2026 findings.**"
+publication: "**In Proc. of EMNLP 2026 findings**"
 ---

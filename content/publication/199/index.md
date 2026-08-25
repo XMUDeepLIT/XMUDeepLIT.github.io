@@ -16,5 +16,5 @@ authors:
 date: "2026-08-21T10:24:48Z"
 publishDate: "2026-08-21T10:24:48Z"
 publication_types: [direction8]
-publication: "**In Proc. of EMNLP 2026 findings.**"
+publication: "**In Proc. of EMNLP 2026 findings**"
 ---

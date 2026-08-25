@@ -66,6 +66,9 @@ def parse_citation(citation_str):
     
     authors_str, year, title, venue_part = parts
     year = year.strip()
+    if not year.isdigit():
+        raise ValueError(f"年份必须是数字，当前值为: {year!r}")
+
     title = title.strip()
     
     # 处理研究方向（//标记）
@@ -132,13 +135,14 @@ def generate_md_file(data_dict, output_id):
     for author in data_dict["authors"]:
         yaml_content.append(f"- {author}")
     
-    # 3. 处理作者注释
-    yaml_content.append("author_notes:")
-    for note in data_dict["author_notes"]:
-        if note:
-            yaml_content.append(f'- "{note}"')
-        else:
-            yaml_content.append("- ")
+    # 3. 处理作者注释；所有作者均无标记时不生成 author_notes 域
+    if any(data_dict["author_notes"]):
+        yaml_content.append("author_notes:")
+        for note in data_dict["author_notes"]:
+            if note:
+                yaml_content.append(f'- "{note}"')
+            else:
+                yaml_content.append("- ")
     
     # 4. 处理日期（使用当前月日 + 给定年份）
     now = datetime.now(timezone.utc)
@@ -153,13 +157,22 @@ def generate_md_file(data_dict, output_id):
     yaml_content.append(f'publication_types: [{data_dict["direction"]}]')
     
     # 7. 处理发表会议（加粗处理）
-    venue = data_dict["venue"]
-    # 分离会议主体和括号内容
-    if '(' in venue:
-        main_part, bracket_part = re.split(r'[\(（]', venue, 1)
+    venue = data_dict["venue"].strip()
+    # 分离会议主体和末尾的 CCF 标注，并将中文/混用括号统一为英文括号
+    ccf_match = re.search(r'\s*[（(]\s*(CCF[^()（）]*)\s*[）)]\s*$', venue, re.IGNORECASE)
+    if ccf_match:
+        main_part = venue[:ccf_match.start()].strip()
+        ccf_part = ccf_match.group(1).strip()
+        formatted_venue = f"**{main_part}** ({ccf_part})"
+    elif '(' in venue:
+        # 保留原有的其他英文括号尾注格式
+        main_part, bracket_part = venue.split('(', 1)
         formatted_venue = f"**{main_part.strip()}** ({bracket_part}"
     else:
         formatted_venue = f"**{venue}**"
+
+    # 框架会自动补句号，因此去掉 publication 末尾加粗标记前的句号
+    formatted_venue = re.sub(r'\.\*\*$', '**', formatted_venue)
     yaml_content.append(f'publication: "{formatted_venue}"')
     
     yaml_content.append("---")
