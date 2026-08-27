@@ -57,6 +57,11 @@
   margin: 0 auto;
 }
 
+// 保留标题 front matter 中显式写入的换行
+.article-container > h1 {
+  white-space: pre-line;
+}
+
 //新闻封面图片样式
 .article-banner-container {
   transform: scale(0.8);
