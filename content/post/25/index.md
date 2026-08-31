@@ -28,7 +28,7 @@ date: 2026-08-24
 - - -
 - 论文标题：CulturalMenuBench: Probing the Knowledge-Application Gap in Multimodal Culinary Reasoning
 - 录用类型：EMNLP 2026, Findings, Long paper
-- 论文作者：Bo Zeng†, Linfeng Gao†, Peiqin Lin, Yu Zhao, Mingyan Zeng, Yu Tong, Xintong Wang, Linlong Xu, Longyue Wang, Weihua Luo, Qinggang Zhang, Jinsong Su*
+- 论文作者：Bo Zeng, Linfeng Gao, Peiqin Lin, Yu Zhao, Mingyan Zeng, Yu Tong, Xintong Wang, Linlong Xu, Longyue Wang, Weihua Luo, Qinggang Zhang, Jinsong Su
 - 完成单位：厦门大学，阿里云
 ![](3.png)
 - 论文简介：现有烹饪文化基准主要集中于单步视觉识别或问答，缺乏对多步骤烹饪过程以及细粒度地域文化差异的系统评估。为此，我们提出 CulturalMenuBench，构建了包含4,870个评测样本、覆盖10种语言和18个地区的多模态基准，并将菜品图像、食材、步骤文本和逐步烹饪图像等过程级信息相结合，设计了从视觉识别、跨模态匹配到过程推理和细粒度地域文化分类的10项任务，以系统考察模型的烹饪文化推理能力。我们在多个先进多模态模型上的实验发现，模型在简单视觉匹配任务中可达到88%–97%的高准确率，但在将考察内容转变为“判断菜品所属地域”后，准确率骤降至38%–56%，表明模型虽然具备一定文化知识，却难以将其从视觉输入中有效激活并应用于文化归因。因此，我们认为当前多模态模型存在明显的“知识—应用鸿沟”，其优势更多体现为视觉模式识别，而非真正的文化推理，单纯扩大模型规模难以解决这一问题，未来需要通过结构化文化知识监督进一步建立从视觉感知到文化知识应用的推理桥梁。

@@ -13,19 +13,7 @@ authors:
 - Weihua Luo
 - Qinggang Zhang
 - Jinsong Su
-author_notes:
-- "共同一作"
-- "共同一作"
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- "通讯作者"
+
 date: "2026-08-22T08:37:23Z"
 publishDate: "2026-08-22T08:37:23Z"
 publication_types: [directionb]
