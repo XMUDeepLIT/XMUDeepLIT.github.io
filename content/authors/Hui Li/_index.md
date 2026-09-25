@@ -10,7 +10,7 @@ first_name: 李
 last_name: 辉
 
 # 老师们在这里可以填一些比较重要的头衔、职称，学生填20**级硕士/博士
-role: 兼职专家
+role: 助理教授（闽大）
 weight: 5
 
 # 这里放跟自己相关的一些页面的链接，我预定义了三个：分别是邮箱、Google-scholar主页和github主页
@@ -30,7 +30,7 @@ weight: 5
 
 #  老师这里填Researchers即可，不用修改
 user_groups:
-  - Hide
+  - Researchers
 
 #接着下面是markdown格式的文本，是md文件的具体内容，分为四个部分，老师们可以自行进行修改、删减和添加
 ---
