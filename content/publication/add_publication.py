@@ -114,6 +114,45 @@ def parse_citation(citation_str):
     }
 
 
+def format_publication(venue):
+    """规范化并格式化 publication 域。"""
+    venue = venue.strip().rstrip('.').strip()
+
+    # 分离末尾的 CCF 标注，并将中文/混用括号统一为英文括号
+    ccf_match = re.search(r'\s*[（(]\s*(CCF[^()（）]*)\s*[）)]\s*$', venue, re.IGNORECASE)
+    if ccf_match:
+        main_part = venue[:ccf_match.start()].strip().rstrip('.').strip()
+        ccf_part = ccf_match.group(1).strip().rstrip('.').strip()
+    else:
+        main_part = venue
+        ccf_part = ''
+
+    # 保留原有的其他英文括号尾注格式，但它们不触发会议名末尾加句点
+    bracket_part = ''
+    if not ccf_part and '(' in main_part:
+        main_part, bracket_part = main_part.split('(', 1)
+        main_part = main_part.strip().rstrip('.').strip()
+        bracket_part = bracket_part.strip()
+
+    # 会议名称缺少固定前缀时自动补齐；已有前缀时统一其大小写和空格
+    proceedings_match = re.match(r'^in\s+proc\.\s+of(?:\s+|$)', main_part, re.IGNORECASE)
+    if proceedings_match:
+        conference_name = main_part[proceedings_match.end():].strip()
+        main_part = f"In Proc. of {conference_name}".rstrip()
+    else:
+        main_part = f"In Proc. of {main_part}".rstrip()
+
+    if ccf_part:
+        # 有 CCF 评级时，会议名与评级之间保留一个句点
+        return f"**{main_part}.** ({ccf_part})"
+
+    # 没有 CCF 评级时，publication 末尾不加句点
+    formatted_venue = f"**{main_part.rstrip('.').strip()}**"
+    if bracket_part:
+        formatted_venue += f" ({bracket_part}"
+    return formatted_venue.rstrip('.').strip()
+
+
 
 # 根据生成的字典和输入的ID（当前论文数）生成Markdown文件
 def generate_md_file(data_dict, output_id):
@@ -156,23 +195,8 @@ def generate_md_file(data_dict, output_id):
     # 6. 处理发表类型
     yaml_content.append(f'publication_types: [{data_dict["direction"]}]')
     
-    # 7. 处理发表会议（加粗处理）
-    venue = data_dict["venue"].strip()
-    # 分离会议主体和末尾的 CCF 标注，并将中文/混用括号统一为英文括号
-    ccf_match = re.search(r'\s*[（(]\s*(CCF[^()（）]*)\s*[）)]\s*$', venue, re.IGNORECASE)
-    if ccf_match:
-        main_part = venue[:ccf_match.start()].strip()
-        ccf_part = ccf_match.group(1).strip()
-        formatted_venue = f"**{main_part}** ({ccf_part})"
-    elif '(' in venue:
-        # 保留原有的其他英文括号尾注格式
-        main_part, bracket_part = venue.split('(', 1)
-        formatted_venue = f"**{main_part.strip()}** ({bracket_part}"
-    else:
-        formatted_venue = f"**{venue}**"
-
-    # 框架会自动补句号，因此去掉 publication 末尾加粗标记前的句号
-    formatted_venue = re.sub(r'\.\*\*$', '**', formatted_venue)
+    # 7. 处理发表会议（加粗、前缀、句点及 CCF 标注）
+    formatted_venue = format_publication(data_dict["venue"])
     yaml_content.append(f'publication: "{formatted_venue}"')
     
     yaml_content.append("---")
