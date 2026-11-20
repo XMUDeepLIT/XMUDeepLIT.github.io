@@ -1,5 +1,5 @@
 ---
-title: DeepLIT课题组5篇论文被 EMNLP 2026 录用
+title: 课题组5篇论文被 EMNLP 2026 录用
 date: 2026-08-24
 ---
 &emsp;&emsp;EMNLP 2026 是国际计算语言学协会（Association for Computational Linguistics, ACL）下属特殊兴趣小组 SIGDAT 举办的自然语言处理经验方法会议（Conference on Empirical Methods in Natural Language Processing），是自然语言处理与计算语言学领域的国际顶级学术会议之一。EMNLP 2026将于2026年10月24日至29日在匈牙利布达佩斯举行。本届会议共收到17669篇投稿，其中2719篇被主会录用、2533篇被Findings录用，主会录用率为15.4%，Findings录用率为14.3%。

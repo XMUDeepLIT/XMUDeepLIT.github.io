@@ -1,5 +1,5 @@
 ---
-title: DeepLIT课题组2篇论文被 NeurIPS 2026 录用
+title: 课题组2篇论文被 NeurIPS 2026 录用
 date: 2026-09-28
 ---
 &emsp;&emsp;NeurIPS（Conference on Neural Information Processing Systems） 是人工智能与机器学习领域最具影响力的国际顶级学术会议之一，与 ICML、ICLR 并列为机器学习领域的三大顶会，被中国计算机学会（CCF）列为 A 类会议。NeurIPS 2026 主会场将于 2026年 12 月 6 日至 12 日在澳大利亚悉尼举办，Main Track 共收到 30,709 篇投稿，接收 7,900 篇论文，录取率为 25.7%。语言智能技术课题组本次有2篇论文被接收，主题涉及自进化、高效机器翻译方向。

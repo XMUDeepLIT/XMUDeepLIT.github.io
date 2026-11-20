@@ -1,5 +1,5 @@
 ---
-title: DeepLIT课题组2篇论文被 ACM MM 2026 录用
+title: 课题组2篇论文被 ACM MM 2026 录用
 date: 2026-07-12
 ---
 &emsp;&emsp;近日，国际计算机图形学与多媒体领域顶级学术会议 ACM International Conference on Multimedia (ACM MM 2026) 公布论文录用结果，课题组2篇论文被大会主会正式录用。
